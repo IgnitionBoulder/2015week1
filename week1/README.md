@@ -1,48 +1,51 @@
-Week 1: Intro to HTML/CSS and Git/GitHub
+# Week 1: Intro to HTML/CSS and Git/GitHub
 
-Students have already done…
+#### Students have already done…
 How does the web work?
 How does your computer work?
 Terms to know
 Installations
 
-Teacher Notes
-Problem Solving Workflow
+## Teacher Notes
+#### Problem Solving Workflow
 Google it! Spend at least 5 minutes searching the web, trying different queries.
 Slack your classmates. Try the “Questions” channel first. Search the channel first to see if the question has already come up. If not, go ahead and ask it!
 Slack your instructors and TAs
 
-Class Logistics and Expectations
+#### Class Logistics and Expectations
 go over google docs and how assignments get submitted
 using Slack
 
+## Doc Expectations
 
-Doc Expectations
-The Front End
+## The Front End
 
-Students answer… 
+### Students answer… 
 What is the role of HTML in a web page?
 What is the role of CSS in a web page?
 What is the role of Javascript in a web page?
 
-Required
+### Required
 Read the main description from the Odin Project
 10 minutes video about browser developer tools
 
-Optional
+### Optional
 Interview with Nick Schaden
 
-HTML and CSS 101
-
+## HTML and CSS 101
+#### Students answer… 
 Why do we separate HTML and CSS?
-HTML
+
+### Required
+####HTML
 What are classes and IDs (and how are they different)?
 What are elements?
 What are tags?
 What are attributes?
 What are forms?
 What is a div?
-CSS
+
+#### CSS
 What are selectors?
 What are properties?
 What are values?
@@ -50,8 +53,7 @@ How do CSS styles for a particular element get inherited? ie. how does an elemen
 What are two CSS attributes you can change to push an element around on the page?
 What are the three different ways to include CSS in your project or use CSS to style a particular element?
 
-Required
-Codecademy HTML/CSS track
+#### Codecademy HTML/CSS track
 Watch this Code Player Walkthrough of how to build the Android Logo. Make the android logo look like the following image (as close to as possible) by tweaking the code yourself:
 
 Blue? - watch this segment - - highlight to uncover the hint!
