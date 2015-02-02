@@ -1,1 +1,55 @@
-placeholder
+#Class Logistics, Norms and Expectations
+##Welcome!
+- With Ignition, you are taking control of your education and career
+- Class timing 
+  - Mon/Thurs 6-7:30pm we are all accountable. After that its open
+  - Lectures alternating Tues/Wed 6-645pm
+  - You must always be on time
+  - All classes are at spark
+  - Office hours 4-6pm before class on Thursdays (Kelton)
+- Grading policy
+  - This isn’t school, we want everyone to learn a lot.  There is no accredited finishing point where we want everyone to be.  Teams will be grouped with similar skill level.
+  - We will be assessing your work weekly for completion, and then providing a full report to companies on your competency and effort levels at the end of class. Motivation is directly to yourself and getting the internship.
+  - Think of this as an extended interview
+- Assignments
+  - Expected to complete all required assignments
+  - No need to talk about cheating. You are here for your own benefit, and your professional reputation is on the line.
+  - Coding is walking on the shoulders of giants, not re-inventing the wheel.  Learn to read, understand, and copy other’s code so you can build something even more awesome.
+- Workload
+  - 3-10 hrs of homework dependent on previous experience, work habits, and how much you want to get out of this class
+  - In and out of class you are going to be doing hard work
+- Intangibles
+  - teamwork, attitude, passion, persistence, project management, learning
+- Mentors
+- Companies
+- Networking
+- Using Slack 
+  - Main communication tool
+  - Recommend desktop client and mobile app
+  - Briefly explain channels
+- Feedback
+  - We are learning too
+  - Extra credit for finding any errors in our repos and sending us a pull request to fix them
+  - retrospectives
+- Names
+  - Introduce teachers
+  - Everyone introduce themselves
+    - Name
+    - Major
+    - Where are you from?
+    - Why are you here?
+    - Rock, Paper, Scissors tournament
+- Problem Solving Workflow
+  - Google it! Spend at least 5 minutes searching the web, trying different queries. (StackOverflow.com, Developer.Mozilla.org, and GitHub.com are your friends. W3Schools.com isn’t, just reference W3Fools.com)
+  - Slack your classmates. Try the “#questions” channel first. Search the channel first to see if the question has already come up. If not, go ahead and ask it!
+  - Slack your instructors and TAs.
+- GitHub Assignment Expectations
+  - assignments are graded out of your GitHub repo
+  - fork the IgnitionBoulder/2015week1 repo
+  - all of your work for the first week can be done in GitHub (no need to clone, unless you want to)
+  - SublimeText, the browser, and command line can help
+  - only modify/add files in the deliverables folder.  Include everything on the README.md in that folder: links, images, content, even links to other files in that folder that you want us to see.
+  - all assignments are due by class on Monday 6pm (must be committed to your repo on GH)
+  - assignments are graded for effort, competence, and improvement
+  - if you don’t finish everything by Monday, it’s still possible to get credit by turning it in by that Thursday, or any time before the end of the course
+  - next week we will start using Cloud9 for dev env with Rails
