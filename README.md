@@ -1,62 +1,51 @@
 # Ignition 2015 Week 1
 Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 
-Week 1: Intro to HTML/CSS and Git/GitHub
+## Week 1: Intro to HTML/CSS and Git/GitHub
 
-Section 1: The Front End
-Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?
-What is the role of CSS in a web page?
-What is the role of Javascript in a web page?
-Read the main description from the Odin Project
-10 minutes video about browser developer tools
-Optional - read if you want
-Interview with Nick Schaden
+### Section 1: The Front End
+#### Required - Answer these questions in the deliverables file, and complete the following. 
+- What is the role of HTML in a web page?
+- What is the role of CSS in a web page?
+- What is the role of Javascript in a web page?
+- Read the main description from the Odin Project
+- 10 minutes video about browser developer tools
+- Optional - read if you want
+- Interview with Nick Schaden
 
-Section 2: HTML and CSS 101
-Required - Answer these questions in the deliverables file, and complete the following. 
+### Section 2: HTML and CSS 101
+#### Required - Answer these questions in the deliverables file, and complete the following. 
+- Why do we separate HTML and CSS?
 
-Why do we separate HTML and CSS?
-HTML
-What are classes and IDs (and how are they different)?
-What are elements?
-What are tags?
-What are attributes?
-What are forms?
-What is a div?
-CSS
-What are selectors?
-What are properties?
-What are values?
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?
-What are two CSS attributes you can change to push an element around on the page?
-What are the three different ways to include CSS in your project or use CSS to style a particular element?
+##### HTML
+- What are classes and IDs (and how are they different)?
+- What are elements?
+- What are tags?
+- What are attributes?
+- What are forms?
+- What is a div?
 
-Complete the Codecademy HTML/CSS track.
-Watch this Code Player Walkthrough of how to build the Android Logo. Make the android logo look like the following image (as close to as possible) by tweaking the code yourself on the linked to page:
-Hints (click to go to the hint)
-Blue?
-Eyes?
-Antennas?
-Missing Leg?
+##### CSS
+- What are selectors?  
+- What are properties?
+- What are values?
+- How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?
+- What are two CSS attributes you can change to push an element around on the page?
+- What are the three different ways to include CSS in your project or use CSS to style a particular element?
 
+- Complete the Codecademy HTML/CSS track.
 
+##### Watch this [Code Player Walkthrough](http://thecodeplayer.com/walkthrough/css3-android-logo) of how to build the Android Logo. Make the android logo look like the following image (as close to as possible) by tweaking the code yourself on the linked to page:
 
+![android](https://www.dropbox.com/s/3m80zyanbnayhcb/Screenshot%202015-02-02%2015.43.39.png?dl=0)
 
+###### Hints (click to go to the hint)
+  - Blue?
+  - Eyes?
+  - Antennas?
+  - Missing Leg?
 
-
-
-
-
-
-
-
-
-
-
-
-
- Watch this Treehouse video on forms at 1.5-2x speed.
+- Watch this Treehouse video on forms at 1.5-2x speed.
 Reference Materials
 HTML Dog HTML Beginner Tutorial
 HTML Dog CSS Beginner Tutorial
