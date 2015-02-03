@@ -13,6 +13,7 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 - Optional - read if you want
 - Interview with Nick Schaden
 
+---
 ### Section 2: HTML and CSS 101
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 - Why do we separate HTML and CSS?
@@ -45,47 +46,49 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
   - [Antennas?](#antennas)
   - [Missing Leg?](#missing_leg)
 
-- Watch this Treehouse video on forms at 1.5-2x speed.
-Reference Materials
-HTML Dog HTML Beginner Tutorial
-HTML Dog CSS Beginner Tutorial
-HTML Dog CSS Intermediate Tutorial
-OverAPI's HTML Cheat Sheet
-OverAPI's CSS Cheat Sheet
-Optional - do if you want
-Getting Started with jQuery Mobile
-Code School Discover Dev-tools
+##### Watch this [Treehouse video](http://www.google.com/url?q=http%3A%2F%2Fteamtreehouse.com%2Flibrary%2Fhtml%2Fforms%2Finputs&sa=D&sntz=1&usg=AFQjCNEcP0E3GOyGYN_FZmo1FYHfHdFz9A) on forms at 1.5-2x speed.
 
-Section 3: Git and Github
-Required - Answer these questions in the deliverables file, and complete the following. 
+#### Reference Materials
+[HTML Dog HTML Beginner Tutorial](http://www.google.com/url?q=http%3A%2F%2Fhtmldog.com%2Fguides%2Fhtml%2Fbeginner%2F&sa=D&sntz=1&usg=AFQjCNGSNWVPqR5Bf_XtaGsjY_k_Khylvg)
+[HTML Dog CSS Beginner Tutorial](http://www.google.com/url?q=http%3A%2F%2Fwww.htmldog.com%2Fguides%2Fcss%2Fbeginner%2F&sa=D&sntz=1&usg=AFQjCNE9KF_pnVU7GOSbvzW19GQgo7MmnA)
+[HTML Dog CSS Intermediate Tutorial](http://www.google.com/url?q=http%3A%2F%2Fwww.htmldog.com%2Fguides%2Fcss%2Fintermediate%2F&sa=D&sntz=1&usg=AFQjCNENDL8IKbDqYq2jv7GevmZs0kftjA)
+[OverAPI's HTML Cheat Sheet](http://www.google.com/url?q=http%3A%2F%2Foverapi.com%2Fhtml%2F&sa=D&sntz=1&usg=AFQjCNHEjLCodzQYYbnxRMKB-sN5fW7xfA)
+[OverAPI's CSS Cheat Sheet](http://www.google.com/url?q=http%3A%2F%2Foverapi.com%2Fcss%2F&sa=D&sntz=1&usg=AFQjCNFQ03LlmKNi6y2wPDaNvXMkyBQL5A)
 
-What is Git?
-What is SCM?
-What is a VCS?
-Why is Git useful for a developer?
-Why is Git useful for a team of developers?
-How do you create a new Git repository for a project locally?
-How do you create it on Github?
-How do you commit changes?
-What is the difference between staging and committing changes?
-What is the difference between committing your changes and pushing them to Github?
-What is the command to check the status of your current repo in git?
-What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?
-How can you look through your historical commits on the Github website?
-What is a "Merge"?
-What is a "Pull Request"?
-What is "Forking" a repo?
-What is "Cloning" a repo?
+#### Optional - do if you want
+[Getting Started with jQuery Mobile](http://www.google.com/url?q=http%3A%2F%2Flearn.jquery.com%2Fjavascript-101%2Fgetting-started%2F&sa=D&sntz=1&usg=AFQjCNF6q6WkRHgaGp8uLxouhZFRc6-6Vg)
+[Code School Discover Dev-tools](http://www.google.com/url?q=http%3A%2F%2Fdiscover-devtools.codeschool.com%2F&sa=D&sntz=1&usg=AFQjCNGeYNl-9s3RJ7py1NNh6rPxJK8USg)
 
-Git Basics Videos
-What is VCS?
-What is Git?
-Get Going?
-The Basics of Git and GitHub
+---
+### Section 3: Git and Github
+#### Required - Answer these questions in the deliverables file, and complete the following. 
+- What is Git?
+- What is SCM?
+- What is a VCS?
+- Why is Git useful for a developer?
+- Why is Git useful for a team of developers?
+- How do you create a new Git repository for a project locally?
+- How do you create it on Github?
+- How do you commit changes?
+- What is the difference between staging and committing changes?
+- What is the difference between committing your changes and pushing them to Github?
+- What is the command to check the status of your current repo in git?
+- What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?
+- How can you look through your historical commits on the Github website?
+- What is a "Merge"?
+- What is a "Pull Request"?
+- What is "Forking" a repo?
+- What is "Cloning" a repo?
 
-Try Git exercises
-Git Branching Game - Lesson 1
-Android Logo Hints
+#### Git Basics Videos
+- [What is VCS?](http://www.youtube.com/watch?v=8oRjP8yj2Wo)
+- [What is Git?](http://www.youtube.com/watch?v=uhtzxPU7Bz0)
+- [Get Going?](https://www.youtube.com/watch?v=wmnSyrRBKTw)
+- [The Basics of Git and GitHub](http://www.youtube.com/watch?v=U8GBXvdmHT4)
+- [Try Git exercises](http://www.google.com/url?q=http%3A%2F%2Ftry.github.io%2Flevels%2F1%2Fchallenges%2F1&sa=D&sntz=1&usg=AFQjCNFwna91Vs-UpCCBT3tX4XQ8TYXUww)
+- [Git Branching Game - Lesson 1](http://www.google.com/url?q=http%3A%2F%2Fpcottle.github.io%2FlearnGitBranching%2F&sa=D&sntz=1&usg=AFQjCNHJITlkdUc2PkGUokzfIXWh76-r2w)
+
+##### Android Logo Hints
 <a name="blue"></a>https://gist.github.com/anonymous/a037dd6de0a9ab39953e
 <a name="eyes"></a>https://gist.github.com/anonymous/75aa5a1c057efee15099
 <a name="antennas"></a>https://gist.github.com/anonymous/9b4ce24491995160d6a2
