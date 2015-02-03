@@ -8,21 +8,21 @@ To answer questions, please just put the answer on the next line after the quest
 
 Example:  
 
-**What is your name?**
-Sir Student of Ruby
+**What is your name?**  
+Jack Policar
 
-**What is your quest?**
-I seek the Rails  
+**What is your quest?**  To learn the basics of Ruby on Rails
+ 
 
-**What is your favorite color?**
-~~Green~~ edit:  No, blue.  Blue!  
+**What is your favorite color?**  Today, still green. 
+  
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?  
-What is the role of CSS in a web page?  
+What is the role of HTML in a web page?  To create the skeleton of the website.   
+What is the role of CSS in a web page?  To create the styling on the page. 
 What is the role of Javascript in a web page?  
 
 ---
