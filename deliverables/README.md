@@ -8,44 +8,64 @@ To answer questions, please just put the answer on the next line after the quest
 
 Example:  
 
-**What is your name?**
-Jamei Finney
+**What is your name?**   
+Jamie Finney
 
-**What is your quest?**
-Maek themoney don't let the money make me.  
+**What is your quest?**    
+Maek the money don't let the money make me.  
 
-**What is your favorite color?**
+**What is your favorite color?**  
 Green!  
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page? 
+**What is the role of HTML in a web page?**   
 HTML is the skeleton of the page.
-What is the role of CSS in a web page?  
+
+**What is the role of CSS in a web page?**    
 CSS provides the styling for the page.
-What is the role of Javascript in a web page? 
-Javascript
+
+**What is the role of Javascript in a web page?**   
+Javascript powers the interface of a page.
 
 ---
 
 ### Section 2: HTML and CSS 101
 
 #### meta
-Why do we separate HTML and CSS?  
+**Why do we separate HTML and CSS?**    
+HTML is static text/content on a page, while CSS styles and organizes the HTML and around it.  CSS is a much more arganized and faster way to style HTML rather than in the HTML file.
 
 #### HTML
-What are classes and IDs (and how are they different)?  
-What are elements?  
-What are tags?  
-What are attributes?  
-What are forms?  
-What is a div?  
+**What are classes and IDs (and how are they different)?**    
+Classes and selectors help identify specific elements within HTML on CSS.  In the CSS, a class can be used to identify multiple HTML elements, or the whole class, while an id can identify a specific individual element.
 
-What are selectors?  
-What are properties?  
-What are values?  
+**What are elements?**    
+Elements are the actual content of the html file.  Elements=Bones in the skeleton.
+
+**What are tags?**  
+Tags identify elements.  This is the text that organizes and tells the element where to begin, end, and otther attributes.
+
+**What are attributes?**    
+Attributes are to elements as adjectives are to nouns.  They describe and identify specific characteristics of the element and belong within the opening tag.  
+
+**What are forms?**  
+Forms identify a basic interactive element in an html file.
+
+**What is a div?**  
+A div groups together sections of html between the <div> tags.  The div is then used in CSS to style this section of html. 
+
+**What are selectors?**   
+Selectors are what identifies the html element to be styled in CSS.
+
+**What are properties?**  
+Properties are how CSS specifies an attribute to be modified in html.
+
+**What are values?**
+
+
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
