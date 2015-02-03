@@ -11,6 +11,7 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 - Read the main description from the Odin Project
 - Read the [main description from the Odin Project](http://www.theodinproject.com/web-development-101/introduction-to-the-front-end)
 - [10 minutes video about browser developer tools](https://www.youtube.com/watch?v=z1TkfcC53G0)
+
 #### Optional - read if you want
 - [Interview with Nick Schaden](https://blog.generalassemb.ly/what-is-front-end-web-development/)  
 
