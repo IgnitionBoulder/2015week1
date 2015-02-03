@@ -22,6 +22,7 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
+It's the skeleton.
 
 What is the role of CSS in a web page?  
 What is the role of Javascript in a web page?  
