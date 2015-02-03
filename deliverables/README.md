@@ -49,13 +49,23 @@ What are tags?
 Tags surround content and give meaning to the content. There are opening and closing tags for all the content on the HTML work. 
 
 What are attributes?  
+An HTML attribute is a modifier of an HTML element. HTML attributes generally appear as name-value pairs. Attributes come after the tags and they help to describe the tags that they come after.   
 
 What are forms?  
+HTML Forms are one of the main points of interaction between a user and a web site or application. They allow users to send data to the web site. Most of the time that data is sent to the web server, but the web page can also intercept it to use it on its own. It is the setup of the website and you simply need a web browser and text editor to work wiht these forms.
+
 What is a div?  
+A div is a regular block-level element it simply begins the piece of information. It is more simple then a a or a p element which did convey some specific piece of command, it is the main layout or structure for setting up you web page in the HTML format.   
 
 What are selectors?  
+A selector is the thing that actually selects what you want to stylize in your CSS part of the program. Selecting different elements and allowing you to create and customize them in any way. It is used on the CSS side of the program to seperate the differnet pieces of design.   
+
 What are properties?  
+CSS properties are simply everything that you use to stylize and change the lay out of the webpage, it is somehtitng like the background-color or the font-family that you would like to give to a certain piece of code. It is everythinhg that makes your web page have character and uniqueness   
+
 What are values?  
+A value in CSS is what comes after your property, it is the color, or the size of the font. This is what you put in to complete your property, it is the other piece of the puzzle. It allows the designer to customize the program exactly how they would like it to look. 
+
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
