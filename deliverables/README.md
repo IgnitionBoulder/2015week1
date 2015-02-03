@@ -45,7 +45,7 @@ What are elements?
 Elements are basically the content between tags
 
 What are tags? 
-Tags always have a start and end. Ex: <p></p> or <ol></ol> etc. etc.
+Tags always have a start and end. Ex: <p ></p > or <ol ></ol > etc. etc. (Note: spaces in tags are there so they will not disappear)
 
 What are attributes?  
 Always specified in the start tag; basically anything that is followed with an =" ". Ex: src=, alt=, href=, etc. etc.
@@ -60,7 +60,11 @@ What are selectors?
 Classes and ID's are examples of selectors; in CSS selectors are patterns used to select used to select element(s) you want to style
 
 What are properties?  
+There are tons and tons of properties; change how the code is represented; ex: font-family, font-size, color, border, etc.
+
 What are values?  
+Values are what follow properties such as color exmaples, font exmaples, sizes.
+
 Paired with attributes;
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
