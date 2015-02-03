@@ -21,15 +21,14 @@ For projects on Code Academy, or other external exercises, please just paste a l
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?  
+What is the role of HTML in a web page?    
 HTML has been the standard for professional websites. It stands for Hypertext Markup Language and can be quite confusing to someone who has no experience using it. HTML is the language, or code, used to edit and position the text, images, frames and other web page elements.
 
-What is the role of CSS in a web page? 
+What is the role of CSS in a web page?   
 CSS was created to allow designers to have even more creativity and control over their designs. It is the other side of HTML, it allows us to change the design adn look of out code. It works together with HTML to creat a web design. CSS encourages less effort by allowing designers to create style sheets. It is one of the newer versions that works toegether with HTML helping to symplify it.   
 
-What is the role of Javascript in a web page? 
-JavaScript can make a website more interactive and it can also help in processing any information received from the website’s visitors. It also helps to allow the designer of the website to 
-
+What is the role of Javascript in a web page?   
+JavaScript can make a website more interactive and it can also help in processing any information received from the website’s visitors. It also helps to allow the designer of the website to guide the visitors through the website, from tab to tab and from page to page. It is a great way to design the webpage.    
 
 ---
 
@@ -37,6 +36,7 @@ JavaScript can make a website more interactive and it can also help in processin
 
 #### meta
 Why do we separate HTML and CSS?  
+The seperation between HTML and CSS is important becasue they each work to complete there own things, one is the foundation and the other is the structure adn the design. They work together to make the code and everything work in unison, although they need to be seperated becasue they are different entities. Each one has their own coding format and then they come together to make one site.     
 
 #### HTML
 What are classes and IDs (and how are they different)?  
