@@ -37,7 +37,7 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 
 ##### Watch this [Code Player Walkthrough](http://thecodeplayer.com/walkthrough/css3-android-logo) of how to build the Android Logo. Make the android logo look like the following image (as close to as possible) by tweaking the code yourself on the linked to page:
 
-![android](https://www.dropbox.com/s/3m80zyanbnayhcb/Screenshot%202015-02-02%2015.43.39.png)
+<img src="https://cloud.githubusercontent.com/assets/2164013/6012191/66a0efac-ab02-11e4-90fc-9e808e7a0a04.png" alt="Drawing" width="200" height="250"/>
 
 ###### Hints (click to go to the hint)
   - Blue?
