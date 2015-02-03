@@ -21,28 +21,47 @@ For projects on Code Academy, or other external exercises, please just paste a l
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?  
-What is the role of CSS in a web page?  
-What is the role of Javascript in a web page?  
+What is the role of HTML in a web page? 
+The "skeleton" of the page
 
+What is the role of CSS in a web page?  
+The "skin" that goes over the HTML skeleton
+
+What is the role of Javascript in a web page?  
+Mainly Client-side behavior that HTML and CSS is incapable of
 ---
 
 ### Section 2: HTML and CSS 101
 
 #### meta
 Why do we separate HTML and CSS?  
+Stylistic reasons mainly; effciency when coding
 
 #### HTML
 What are classes and IDs (and how are they different)?  
+ID's are unique in the sense that there can be only one ID per elememnt per page. Classes are not unique are many elements can have the same class and many classes can have the same element
+
 What are elements?  
-What are tags?  
+Elements are basically the content between tags
+
+What are tags? 
+Tags always have a start and end. Ex: <p></p> or <ol></ol> etc. etc.
+
 What are attributes?  
-What are forms?  
+Always specified in the start tag; basically anything that is followed with an =" ". Ex: src=, alt=, href=, etc. etc.
+
+What are forms? 
+A type of tag; used to collect information/user input
+
 What is a div?  
+A type of tag; defines a division or a section in an HTML document; importantly compabitable with CSS to format pages
 
 What are selectors?  
+Classes and ID's are examples of selectors; in CSS selectors are patterns used to select used to select element(s) you want to style
+
 What are properties?  
 What are values?  
+Paired with attributes;
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
