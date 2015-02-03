@@ -50,11 +50,14 @@ An HTML element is any content that is bound by a start tag and an end tag.<br>
 **What are tags?**<br>
 Tags are commands, basically, that bind an element. Tags are held between "less than" and "greater than" symbols, and mark the beginning and the end of an element. <br>
 **What are attributes?**<br>
-Attributes provide additional information about an element and are contained in the start tag. 
-What are forms?  
-What is a div?  
+Attributes provide additional information about an element and are contained in the start tag. <br>
+**What are forms?**<br>
+HTML forms are used to collect user input, and define an HTML form. <br>
+**What is a div?**<br>  
+divs are used in HTML and CSS documents. In HTML, they define a division or section in the document. In CSS, divs group block-elements in order to format them properly. <br>
 
-What are selectors?  
+**What are selectors?**<br>
+Selectors are used in CSS and allow the developer to select and manipulate HTML elements. They can "find" HTML elements based on their ID's, Classes, or attributes. <br>
 What are properties?  
 What are values?  
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
