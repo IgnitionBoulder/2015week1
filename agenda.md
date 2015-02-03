@@ -1,5 +1,5 @@
 #Class Logistics, Norms and Expectations
-##Welcome!
+- Welcome!
 - With Ignition, you are taking control of your education and career
 - Class timing 
   - Mon/Thurs 6-7:30pm we are all accountable. After that its open
