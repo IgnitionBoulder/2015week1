@@ -10,7 +10,7 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 - What is the role of Javascript in a web page?
 - Read the main description from the Odin Project
 - 10 minutes video about browser developer tools
-- Optional - read if you want
+#### Optional - read if you want
 - Interview with Nick Schaden
 
 ---
