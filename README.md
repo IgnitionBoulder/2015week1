@@ -8,10 +8,10 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 - What is the role of HTML in a web page?
 - What is the role of CSS in a web page?
 - What is the role of Javascript in a web page?
-- Read the main description from the Odin Project
-- 10 minutes video about browser developer tools
+- Read the [main description from the Odin Project](http://www.theodinproject.com/web-development-101/introduction-to-the-front-end)
+- [10 minutes video about browser developer tools](https://www.youtube.com/watch?v=z1TkfcC53G0)  
 - Optional - read if you want
-- Interview with Nick Schaden
+- [Interview with Nick Schaden](https://blog.generalassemb.ly/what-is-front-end-web-development/)  
 
 ---
 ### Section 2: HTML and CSS 101
@@ -34,7 +34,7 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 - What are two CSS attributes you can change to push an element around on the page?
 - What are the three different ways to include CSS in your project or use CSS to style a particular element?
 
-- Complete the Codecademy HTML/CSS track.
+- Complete the [Codecademy HTML/CSS track](http://www.codecademy.com/en/tracks/htmlcss).
 
 ##### Watch this [Code Player Walkthrough](http://thecodeplayer.com/walkthrough/css3-android-logo) of how to build the Android Logo. Make the android logo look like the following image (as close to as possible) by tweaking the code yourself on the linked to page:
 
