@@ -20,10 +20,17 @@ I seek the Rails
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
 
 ### Section 1: The Front End
-#### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?  
-What is the role of CSS in a web page?  
-What is the role of Javascript in a web page?  
+#### Required - Answer these questions in the deliverables file, and complete the following.
+<br>
+**What is the role of HTML in a web page?**<br>
+  HTML, or HyperText Markup Language, is the skeleton/framework of the webpage. In other words, it is basically the text/content that the page consists of. 
+<br>
+**What is the role of CSS in a web page?**<br>
+  CSS, or Cascade Style Sheets, is the formatting for the webpage. This includes the elements, divs, colors, typeface, font sizes, font colors, etc. 
+<br>
+**What is the role of Javascript in a web page?**<br>
+JS is a language that allows for interactive features on a webpage.
+<br>
 
 ---
 
