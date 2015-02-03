@@ -6,6 +6,7 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 - What is the role of HTML in a web page?
+- its the skeleton
 - What is the role of CSS in a web page?
 - What is the role of Javascript in a web page?
 - Read the main description from the Odin Project
