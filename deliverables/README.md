@@ -46,7 +46,7 @@ What are elements?
 An element is a single component of HTML Code, most elements are written with a start tag and an end tag, with the content in between. It is the framewrok of our HTML, where each element incorporates content into our HTML code.
 
 What are tags?  
-Tags surround content and give meaning to the content. There are opening and closing tags for all the content on the HTML work. Tags are such as <body></body>, <h1></h1>, <a></a>. l
+Tags surround content and give meaning to the content. There are opening and closing tags for all the content on the HTML work. 
 
 What are attributes?  
 
