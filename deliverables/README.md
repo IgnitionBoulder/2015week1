@@ -53,9 +53,9 @@ What are attributes?
 Attributes are extra pieces of information in an element, included inside the opening tag. 
 
 What are forms?  
-Forms are an interaction point between the user and the web page or application.
-What is a div?  
+Forms are an interaction point between the user and the web page or application.  
 
+What is a div?  
 A division, or section, in an HTML document. 
 
 What are selectors?  
