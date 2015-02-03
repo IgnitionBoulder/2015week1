@@ -11,10 +11,10 @@ Example:
 **What is your name?**  
 Brook Hernandez
 
-**What is your quest?**
+**What is your quest?**  
 I seek the Rails  
 
-**What is your favorite color?**
+**What is your favorite color?**  
 ~~Green~~ edit:  No, blue.  Blue!  
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
@@ -22,7 +22,9 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
+HTML acts as a skeleton that gives every webpage structure
 What is the role of CSS in a web page?  
+
 What is the role of Javascript in a web page?  
 
 ---
