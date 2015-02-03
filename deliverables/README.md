@@ -41,15 +41,22 @@ Why do we separate HTML and CSS?
 
 #### HTML
 What are classes and IDs (and how are they different)?  
-
+HTML uses Classes and IDs to refer to CSS.
 What are elements?  
+Elements are individual components of HTML. They are written with an opening tag and a closing tag. There is content in between the tags.  
 What are tags?  
+Tags are used to code elements. There are tags for comments, hyperlinks, paragraphs and many more. They are inside <>s.  
 What are attributes?  
+HTML elements have attributes, they provide additional information about an element. We use attributes for titles, colors, fonts and a lot more!  
 What are forms?  
+Forms are used to collect user input.  
 What is a div?  
+A div is a tag that defines a division or a setion in an HTML document.  
 
 What are selectors?  
+Selectors are patterns used to select the elements you want to style.  
 What are properties?  
+
 What are values?  
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
