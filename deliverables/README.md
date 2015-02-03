@@ -22,11 +22,14 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 
-What is the role of HTML in a web page?  HTML is the structure of a website  
+What is the role of HTML in a web page?  
+HTML is the structure of a website  
 
-What is the role of CSS in a web page?  CSS is the formatting and style of a website  
+What is the role of CSS in a web page?  
+CSS is the formatting and style of a website  
 
-What is the role of Javascript in a web page?  Javascript is a scripting language that displays outputs to make dynamic and interactive content on your website
+What is the role of Javascript in a web page?  
+Javascript is a scripting language that displays outputs to make dynamic and interactive content on your website
 
 ---
 
@@ -37,27 +40,44 @@ Why do we separate HTML and CSS?
 You seperate the HTML and CSS file so that you can make changes to the content on one file easily and then make changes to the style of the content efficiently with just one file instead of having to change each part of the html file.  
 
 #### HTML
-What are classes and IDs (and how are they different)?  Id's and Classes are used to differentiate elements and classify them so that you can manipulate them and style them how you want. Classes can be used multiple times with different elements, but Id's can (should) only be used once with a certain element  
+What are classes and IDs (and how are they different)?  
+Id's and Classes are used to differentiate elements and classify them so that you can manipulate them and style them how you want. Classes can be used multiple times with different elements, but Id's can (should) only be used once with a certain element  
 
-What are elements?  An element is the markup that puts the html into content on your webpage starting with a start tag and ending with an end tag    
+What are elements?  
+An element is the markup that puts the html into content on your webpage starting with a start tag and ending with an end tag    
 
-What are tags?  Tags are the markup that differentiate each element with start tags and ending tags using < >
+What are tags?  
+Tags are the markup that differentiate each element using start tags and ending tags using < > 
+
 What are attributes?  
-What are forms?  
-What is a div?  
+Attributes add additional information to an element and are always in a name/value pair  
+
+What are forms?  forms are used to collect data from users. Users can enter data in a form using text boxes, check boxes or other input fields
+
+What is a div?  A div seperates elements so that each section can be individually styled and formatted
 
 What are selectors?  
 What are properties?  
 What are values?  
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+An html element gets its style by the css slector identifying the correct html element and attribute  
+
 What are two CSS attributes you can change to push an element around on the page?  
-What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+Margin, padding  
+
+What are the three different ways to include CSS in your project or use CSS to style a particular element? 
+Making a seperate .css file and then putting a link element in the corresponding html file that directs the html document to that .css file, or putting the css stylesheet in the same document above the html document and link the two using a corresponding rel element  
 
 ---
 ### Section 3: Git and Github  
 What is Git?  
+Git is a VCS system that stores its data using a "snap shot" system, taking a sort of "screen shot" of your file and the changes that you made so that you can see your work and the changes you made over a period of time.
+
 What is SCM?  
+Software configuration management
 What is a VCS?  
+Veritas Cluster Servers
+
 Why is Git useful for a developer?  
 Why is Git useful for a team of developers?  
 How do you create a new Git repository for a project locally?  
