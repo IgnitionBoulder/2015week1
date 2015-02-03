@@ -21,22 +21,31 @@ For projects on Code Academy, or other external exercises, please just paste a l
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?  
+What is the role of HTML in a web page? 
+It is the standard markup language used for making webpages. HTML is the backbone of all websites and translates images, video and text into a format that your browser can understand. 
 What is the role of CSS in a web page?  
+CSS sands for Cascading Style Sheets and is used to adjust the visual asthetics of a webpage.
 What is the role of Javascript in a web page?  
-
+Javascript is used to affect the behavior of HTML pages. It allows you to let the designer dynamically add functionality to their website.
 ---
 
 ### Section 2: HTML and CSS 101
 
 #### meta
 Why do we separate HTML and CSS?  
-
+We seperate HTML and CSS to make maintaining code easier, keeps code more efficent and it's standard programming practice
 #### HTML
-What are classes and IDs (and how are they different)?  
+What are classes and IDs (and how are they different)?
+They both indicate differt parts of your webpage that can be modified using CSS or Javascript. When one manipulates a class using CSS or Javascript they are modifying all the Ids within that class. When one edits a ID using CSS or Javascript they only manipulate one specific element of a webpage. 
 What are elements?  
+HTML elements are individual components of a webpage. They tend to mark the begining and end of a webpage 
+
 What are tags?  
+HTML tags apply meaning to elements of a webpage and help apply context to the actual code within the webpage. 
+
 What are attributes?  
+Extra pieces of information that is a modifier of an HTML element. An example of using attributes 
+
 What are forms?  
 What is a div?  
 
@@ -50,10 +59,14 @@ What are the three different ways to include CSS in your project or use CSS to s
 ---
 ### Section 3: Git and Github  
 What is Git?  
+Git is a version Control system that helps keep track of changes in one's code.
 What is SCM?  
-What is a VCS?  
+What is a VCS? 
+A version control system is a tool that a developer or group of developers use to keep track of changes with in a project.
 Why is Git useful for a developer?  
 Why is Git useful for a team of developers?  
+Git allows a team of developers to track changes with in their document. It also useful if one wanted to have seperate team members modify certain features in an application. For example they can build seperate branches so they can experiment with the code without messing with the running product. 
+
 How do you create a new Git repository for a project locally?  
 How do you create it on Github?  
 How do you commit changes?  
