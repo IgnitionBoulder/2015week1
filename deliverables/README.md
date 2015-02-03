@@ -74,9 +74,9 @@ What are two CSS attributes you can change to push an element around on the page
 Padding and margins. 
 
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
-1. Link the external stylesheet to HTML
-2. Internal stylesheet written into HTML
-3. Inline styles
+1. Link the external stylesheet to HTML 
+2. Internal stylesheet written into HTML 
+3. Inline styles 
 
 ---
 ### Section 3: Git and Github  
