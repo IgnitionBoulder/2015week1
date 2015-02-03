@@ -37,13 +37,20 @@ JS is a language that allows for interactive features on a webpage.
 ### Section 2: HTML and CSS 101
 
 #### meta
-Why do we separate HTML and CSS?  
+**Why do we separate HTML and CSS?**<br>
+Keeping the languages seperate allows for the code to be more manageable, as well as more efficient and simpler to understand/apply changes when necessary.
+<br>
 
 #### HTML
-What are classes and IDs (and how are they different)?  
-What are elements?  
-What are tags?  
-What are attributes?  
+**What are classes and IDs (and how are they different)?**<br>
+Both Classes and IDs are used when styling HTML markup. They are different in that classes define the characteristics of an object in HTML. Classes can be linked to various objects, allowing for them <strong>all</strong> to have consistent formatting. IDs are used for specific, individual elements, rather than various ones. <br>
+
+**What are elements?**<br>
+An HTML element is any content that is bound by a start tag and an end tag.<br>
+**What are tags?**<br>
+Tags are commands, basically, that bind an element. Tags are held between "less than" and "greater than" symbols, and mark the beginning and the end of an element. <br>
+**What are attributes?**<br>
+Attributes provide additional information about an element and are contained in the start tag. 
 What are forms?  
 What is a div?  
 
