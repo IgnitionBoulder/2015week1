@@ -22,8 +22,11 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
+HTML is the skeleton of a web page.
 What is the role of CSS in a web page?  
+CSS is the hair and makeup of a web page in that it makes the functionalities pretty and contributes to user friendliness.
 What is the role of Javascript in a web page?  
+Javascript
 
 ---
 
@@ -36,7 +39,11 @@ Why do we separate HTML and CSS?
 What are classes and IDs (and how are they different)?  
 What are elements?  
 What are tags?  
-What are attributes?  
+Tags creates sections of content. They should have an open and a close, and can be embedded within one another.
+
+What are attributes? 
+An attribute is a characteristic or description for some content in the element. They give tags more instructions, for instance changing the color or size of some text.
+
 What are forms?  
 What is a div?
 
