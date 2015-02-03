@@ -40,9 +40,16 @@ The seperation between HTML and CSS is important becasue they each work to compl
 
 #### HTML
 What are classes and IDs (and how are they different)?  
+ID's are unique, each element can only have one ID, it is like the finger print of the elements. It is the thing that determines what pieces you are using in the elements adn you can only have one of these ID's for everysingle element and page. A class is not a unique aspect because you can use the same class for multiple and many elements. Also we can use many classes on one individual element. They are different because and ID is unique to each element where the class can be seen in many different elements.
+
 What are elements?  
+An element is a single component of HTML Code, most elements are written with a start tag and an end tag, with the content in between. It is the framewrok of our HTML, where each element incorporates content into our HTML code.
+
 What are tags?  
+Tags surround content and give meaning to the content. There are opening and closing tags for all the content on the HTML work. Tags are such as <body></body>, <h1></h1>, <a></a>.
+
 What are attributes?  
+
 What are forms?  
 What is a div?  
 
