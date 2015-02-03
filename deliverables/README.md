@@ -24,10 +24,11 @@ For projects on Code Academy, or other external exercises, please just paste a l
 What is the role of HTML in a web page?  
 HTML acts as a skeleton that gives every webpage structure.  
 
-What is the role of CSS in a web page? 
+What is the role of CSS in a web page?  
 CSS is what gives HTML pages their beautiful apperance.  
 
 What is the role of Javascript in a web page?  
+Javascript is used for interactivity with the website and allows quick response.  
 
 ---
 
@@ -35,9 +36,12 @@ What is the role of Javascript in a web page?
 
 #### meta
 Why do we separate HTML and CSS?  
+1. You can apply the same formatting o several HTML elements without rewriting code over and over.  
+2. You can apply appearence and formatting to several HTML pages from a single CSS file.  
 
 #### HTML
 What are classes and IDs (and how are they different)?  
+
 What are elements?  
 What are tags?  
 What are attributes?  
