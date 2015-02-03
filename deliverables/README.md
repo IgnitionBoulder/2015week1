@@ -9,10 +9,10 @@ To answer questions, please just put the answer on the next line after the quest
 Example:  
 
 **What is your name?**
-Sir Student of Ruby
+Alexandra Weiner
 
 **What is your quest?**
-I seek the Rails  
+I seek the Rails, yup that's it.  
 
 **What is your favorite color?**
 ~~Green~~ edit:  No, blue.  Blue!  
@@ -22,6 +22,7 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
+
 What is the role of CSS in a web page?  
 What is the role of Javascript in a web page?  
 
