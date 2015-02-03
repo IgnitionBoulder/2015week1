@@ -1,6 +1,14 @@
 # Ignition 2015 Week 1
 Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 
+## Setup.
+
+- Visit https://github.com/IgnitionBoulder/2015week1  
+- Click the "Fork" button, and accept and confirm steps
+- Your repo will now be at https://github.com/YOUR_USERNAME/2015week1
+- Go to *your* repo and enter your answers in the file at deliverables/README.md  
+- Please note there are two files called READMEN.  Your answers go in the one *under* deliverables/
+
 ## Week 1: Intro to HTML/CSS and Git/GitHub
 
 ### Section 1: The Front End
