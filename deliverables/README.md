@@ -8,21 +8,24 @@ To answer questions, please just put the answer on the next line after the quest
 
 Example:  
 
-**What is your name?**  
+**What is your name?**    
 Erin Connolly
 
-**What is your quest?**
-I seek the Rails  
+**What is your quest?**  
+They say not to leave home without a map, but I usually do. 
 
-**What is your favorite color?**
-~~Green~~ edit:  No, blue.  Blue!  
+**What is your favorite color?**  
+Green, if it's with tangerine  
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
-What is the role of CSS in a web page?  
+The skeleton that gives every webpage structure.  Used to add things like paragraphs, headings, links, pictures, tables, etc. 
+What is the role of CSS in a web page? 
+Contains all the style elements and how they apply to the HTML elements, provides the appearance
+
 What is the role of Javascript in a web page?  
 
 ---
