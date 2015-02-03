@@ -40,10 +40,10 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 <img src="https://cloud.githubusercontent.com/assets/2164013/6012191/66a0efac-ab02-11e4-90fc-9e808e7a0a04.png" alt="Drawing" width="200" height="250"/>
 
 ###### Hints (click to go to the hint)
-  - Blue?
-  - Eyes?
-  - Antennas?
-  - Missing Leg?
+  - [Blue?](#blue)
+  - [Eyes?](#eyes)
+  - [Antennas?](#antennas)
+  - [Missing Leg?](#missing_leg)
 
 - Watch this Treehouse video on forms at 1.5-2x speed.
 Reference Materials
@@ -86,7 +86,7 @@ The Basics of Git and GitHub
 Try Git exercises
 Git Branching Game - Lesson 1
 Android Logo Hints
-https://gist.github.com/anonymous/a037dd6de0a9ab39953e
-https://gist.github.com/anonymous/75aa5a1c057efee15099
-https://gist.github.com/anonymous/9b4ce24491995160d6a2
-https://gist.github.com/anonymous/1186aea06885fa7548d6
+<a name="blue"></a>https://gist.github.com/anonymous/a037dd6de0a9ab39953e
+<a name="eyes"></a>https://gist.github.com/anonymous/75aa5a1c057efee15099
+<a name="antennas"></a>https://gist.github.com/anonymous/9b4ce24491995160d6a2
+<a name="missing_leg"></a>https://gist.github.com/anonymous/1186aea06885fa7548d6
