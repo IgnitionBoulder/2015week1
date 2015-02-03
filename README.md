@@ -52,11 +52,11 @@ Repository for the first Week of Spring 2015 Ignition curriculum and assignments
 ##### Watch this [Treehouse video](http://www.google.com/url?q=http%3A%2F%2Fteamtreehouse.com%2Flibrary%2Fhtml%2Fforms%2Finputs&sa=D&sntz=1&usg=AFQjCNEcP0E3GOyGYN_FZmo1FYHfHdFz9A) on forms at 1.5-2x speed.
 
 #### Reference Materials
-[HTML Dog HTML Beginner Tutorial](http://www.google.com/url?q=http%3A%2F%2Fhtmldog.com%2Fguides%2Fhtml%2Fbeginner%2F&sa=D&sntz=1&usg=AFQjCNGSNWVPqR5Bf_XtaGsjY_k_Khylvg)
-[HTML Dog CSS Beginner Tutorial](http://www.google.com/url?q=http%3A%2F%2Fwww.htmldog.com%2Fguides%2Fcss%2Fbeginner%2F&sa=D&sntz=1&usg=AFQjCNE9KF_pnVU7GOSbvzW19GQgo7MmnA)
-[HTML Dog CSS Intermediate Tutorial](http://www.google.com/url?q=http%3A%2F%2Fwww.htmldog.com%2Fguides%2Fcss%2Fintermediate%2F&sa=D&sntz=1&usg=AFQjCNENDL8IKbDqYq2jv7GevmZs0kftjA)
-[OverAPI's HTML Cheat Sheet](http://www.google.com/url?q=http%3A%2F%2Foverapi.com%2Fhtml%2F&sa=D&sntz=1&usg=AFQjCNHEjLCodzQYYbnxRMKB-sN5fW7xfA)
-[OverAPI's CSS Cheat Sheet](http://www.google.com/url?q=http%3A%2F%2Foverapi.com%2Fcss%2F&sa=D&sntz=1&usg=AFQjCNFQ03LlmKNi6y2wPDaNvXMkyBQL5A)
+- [HTML Dog HTML Beginner Tutorial](http://www.google.com/url?q=http%3A%2F%2Fhtmldog.com%2Fguides%2Fhtml%2Fbeginner%2F&sa=D&sntz=1&usg=AFQjCNGSNWVPqR5Bf_XtaGsjY_k_Khylvg)
+- [HTML Dog CSS Beginner Tutorial](http://www.google.com/url?q=http%3A%2F%2Fwww.htmldog.com%2Fguides%2Fcss%2Fbeginner%2F&sa=D&sntz=1&usg=AFQjCNE9KF_pnVU7GOSbvzW19GQgo7MmnA)
+- [HTML Dog CSS Intermediate Tutorial](http://www.google.com/url?q=http%3A%2F%2Fwww.htmldog.com%2Fguides%2Fcss%2Fintermediate%2F&sa=D&sntz=1&usg=AFQjCNENDL8IKbDqYq2jv7GevmZs0kftjA)
+- [OverAPI's HTML Cheat Sheet](http://www.google.com/url?q=http%3A%2F%2Foverapi.com%2Fhtml%2F&sa=D&sntz=1&usg=AFQjCNHEjLCodzQYYbnxRMKB-sN5fW7xfA)
+- [OverAPI's CSS Cheat Sheet](http://www.google.com/url?q=http%3A%2F%2Foverapi.com%2Fcss%2F&sa=D&sntz=1&usg=AFQjCNFQ03LlmKNi6y2wPDaNvXMkyBQL5A)
 
 #### Optional - do if you want
 [Getting Started with jQuery Mobile](http://www.google.com/url?q=http%3A%2F%2Flearn.jquery.com%2Fjavascript-101%2Fgetting-started%2F&sa=D&sntz=1&usg=AFQjCNF6q6WkRHgaGp8uLxouhZFRc6-6Vg)
