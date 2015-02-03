@@ -22,19 +22,27 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?
-It is the skeloton. 
-What is the role of CSS in a web page?  
-What is the role of Javascript in a web page?  
+HTML is the skeloton and content of a web page.  
+
+What is the role of CSS in a web page?
+CSS is the interface and style of a page.  
+
+What is the role of Javascript in a web page?
+How the page functions. The interaction with the page.  
+
 
 ---
 
 ### Section 2: HTML and CSS 101
 
 #### meta
-Why do we separate HTML and CSS?  
+Why do we separate HTML and CSS? There is no need to throw make up on your bones because no one is going to see it. Make up is the polish that makes it presentable and engaging.  
+
+
 
 #### HTML
 What are classes and IDs (and how are they different)?  
+Classes and IDs give more specific instructions and functions compared to regular tags.  
 What are elements?  
 What are tags?  
 What are attributes?  
