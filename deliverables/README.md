@@ -51,8 +51,8 @@ Tags mark the beginning and end of an element.
 
 What are attributes?  
 Attributes are extra pieces of information in an element, included inside the opening tag. 
-What are forms?  
 
+What are forms?  
 Forms are an interaction point between the user and the web page or application.
 What is a div?  
 
