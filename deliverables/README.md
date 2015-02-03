@@ -9,7 +9,7 @@ To answer questions, please just put the answer on the next line after the quest
 Example:  
 
 **What is your name?**
-Alexandra Weiner
+Sir Master Ruby
 
 **What is your quest?**
 I seek the Rails, yup that's it.  
