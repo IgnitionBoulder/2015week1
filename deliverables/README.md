@@ -66,8 +66,12 @@ CSS properties are simply everything that you use to stylize and change the lay 
 What are values?  
 A value in CSS is what comes after your property, it is the color, or the size of the font. This is what you put in to complete your property, it is the other piece of the puzzle. It allows the designer to customize the program exactly how they would like it to look. 
 
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?   
+These styles for many important elements are inhereted when a younger style gets the style directly from an older form of that style. It is a style property that is taken from an alternative style property for the same thing, meaning they are just unique forms of styles that are derived from one style that is already in existance.   
+
 What are two CSS attributes you can change to push an element around on the page?  
+
+
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
 
 ---
