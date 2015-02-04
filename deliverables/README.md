@@ -8,13 +8,13 @@ To answer questions, please just put the answer on the next line after the quest
 
 Example:  
 
-**What is your name?**  
+**What is your name?** <br/> 
 Chloe Wolf
 
-**What is your quest?**
+**What is your quest?**<br/>
 To earn a serious summer internship that will hopefully lead to multiple career opportunities post-graduation.   
 
-**What is your favorite color?**
+**What is your favorite color?**<br/>
 Mine really is Green.  
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
@@ -27,7 +27,7 @@ HTML is what creates the structure of the web page.
 
 
 
-What is the role of CSS in a web page? 
+What is the role of CSS in a web page? <br/>
 CSS controls the aesthetics of the website, like 
 What is the role of Javascript in a web page?  
 
