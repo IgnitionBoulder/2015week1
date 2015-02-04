@@ -44,7 +44,7 @@ With a separate CSS file you can apply that style to multiple HTML pages so that
 IDs can be used to identify specific elements in HTML. Classes are made in CSS and when applied to elements in HTML whatever you made in CSS will apply. Each element can only have one ID but you can put as many classes as you want in an element. 
 
 
-**What are elements?**
+**What are elements?**  
 elements make up the web page, tags mark the beginning and end of an element for example <body>  body is the element. 
 
 
