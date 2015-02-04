@@ -22,7 +22,7 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 
-What is the role of HTML in a web page? <br/>
+**What is the role of HTML in a web page?** <br/>
 HTML is what creates the structure of the web page. 
 
 
