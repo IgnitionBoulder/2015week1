@@ -74,15 +74,24 @@ What is Git?
 Git is a VCS system that stores its data using a "snap shot" system, taking a sort of "screen shot" of your file and the changes that you made so that you can see your work and the changes you made over a period of time.
 
 What is SCM?  
-Software configuration management
-What is a VCS?  
-Veritas Cluster Servers
+Software configuration management  
 
-Why is Git useful for a developer?  
+What is a VCS?  
+Version Control Systems
+
+Why is Git useful for a developer?
+Because the file storing system insures file integrity and it's easy to colloborate with other people on a project and edit code  
 Why is Git useful for a team of developers?  
-How do you create a new Git repository for a project locally?  
+Because the way the code is saved allows for everyone to see exactly what changes were made at a sertain period in time so that everyone can work together and understand when and why code was changed and add their own to it  
+
+How do you create a new Git repository for a project locally?
+Use the git init command 
+
 How do you create it on Github?  
-How do you commit changes?  
+Click + and then click 'new repository'. Create a name and description for your new repository. Choose between Public or Private, initialize with a README, click Create Repository   
+
+How do you commit changes?  Click 'Commit Change' at the bottom of the page  
+
 What is the difference between staging and committing changes?  
 What is the difference between committing your changes and pushing them to Github?  
 What is the command to check the status of your current repo in git?  
