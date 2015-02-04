@@ -22,7 +22,7 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 
-What is the role of HTML in a web page? 
+What is the role of HTML in a web page? <br/>
 HTML is what creates the structure of the web page. 
 
 
@@ -35,20 +35,20 @@ What is the role of Javascript in a web page?
 
 ### Section 2: HTML and CSS 101
 #### meta
-Why do we separate HTML and CSS?  
+Why do we separate HTML and CSS?  <br/>
 With a separate CSS file you can apply that style to multiple HTML pages so that they are using all of the same CSS. This comes in handy when you want to change something in CSS for multiple webpages.
 
 
 #### HTML
-What are classes and IDs (and how are they different)?  
+What are classes and IDs (and how are they different)?  <br/>
 IDs can be used to identify specific elements in HTML. Classes are made in CSS and when applied to elements in HTML whatever you made in CSS will apply. Each element can only have one ID but you can put as many classes as you want in an element. 
 
 
-What are elements?
+What are elements?<br/>
 elements make up the web page, tags mark the beginning and end of an element for example <body>  body is the element. 
 
 
-What are tags? 
+What are tags? <br/>
 tags help make up HTML, they surround elements and apply meaning to it. 
 
 
