@@ -45,10 +45,9 @@ IDs can be used to identify specific elements in HTML. Classes are made in CSS a
 
 
 **What are elements?**  
-elements make up the web page, tags mark the beginning and end of an element for example <body>  body is the element. 
+elements make up the web page, tags mark the beginning and end of an element.
 
-
-**What are tags?** 
+**What are tags?**   
 tags help make up HTML, they surround elements and apply meaning to it. 
 
 
