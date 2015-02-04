@@ -51,11 +51,11 @@ elements make up the web page, tags mark the beginning and end of an element.
 tags help make up HTML, they surround elements and apply meaning to it. 
 
 
-**What are attributes?** 
+**What are attributes?**   
 attributes are additional information that go in between the tags of an element, these are in quotations and are often values.
 
 
-**What are forms?**
+**What are forms?**  
 Forms define a form that allows user inputted data to be sent somewhere.
 
 
@@ -79,7 +79,7 @@ Styles can be inherited from a parent element to a child element. So if you appl
 padding and margins 
 
 **What are the three different ways to include CSS in your project or use CSS to style a particular element?**  
-1. link the external styleet to your HTML
+1. link the external styleet to your HTML<br/>
 2. write CSS in your HTML as in on-page style defintions  
 3. inline styles 
 
