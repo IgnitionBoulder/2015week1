@@ -36,7 +36,7 @@ What is the role of Javascript in a web page?
 ### Section 2: HTML and CSS 101
 #### meta
 Why do we separate HTML and CSS?  
-Keeping them separated makes the code more organized, clean and easy to maintain and debug...mostly debug 
+With a separate CSS file you can apply that style to multiple HTML pages so that they are using all of the same CSS. This comes in handy when you want to change something in CSS for multiple webpages.
 
 
 #### HTML
@@ -89,7 +89,7 @@ What are the three different ways to include CSS in your project or use CSS to s
 ---
 ### Section 3: Git and Github  
 What is Git?  
-
+A git is a distributed revision control system.
 
 What is SCM? 
 
