@@ -73,17 +73,26 @@ What are two CSS attributes you can change to push an element around on the page
 There are many attributes that we can use to push elemets around on our page. One is wiht the float element; this goes inside the brackets of the CSS code. The float allows us to sssentially take an element, remove it from the normal flow of our page, and position it to the left or right of its parent element, where it was before. Secondly we can do move or push elements around with the inline-block which are helpful for laying out pages or for placing elements next to one another within a line. It is used in conjuction with the display property as is the float. The inline-block is good when we are creating alot of tabs or buttons on the screen in a row.      
 
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
-The three ways to include css in our projects is either in-line, internal, and external. In-line styles are placed directly into the HTML tags using the style attribute, the internal styles are used for the whole page, they go inside the head element and the style tags surround all of the styles for the page, and last but not least the external styles are used for the whole multiple-page website.  
+The three ways to include CSS in our projects is either in-line, internal, and external. In-line styles are placed directly into the HTML tags using the style attribute, the internal styles are used for the whole page, they go inside the head element and the style tags surround all of the styles for the page, and last but not least the external styles are used for the whole multiple-page website.  
 
 
 ---
 ### Section 3: Git and Github  
 What is Git?  
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It is important for tracking content such as files and directories, things like what we may be doing here with this git answering questions.
+
 What is SCM?  
+SMC stands for Software configuration management, which handles the task of tracking and controlling changes in the software,it is part of the larger cross-discipline field of configuration management. SMC's can also determine what was changed and who changed it in the software.   
+
 What is a VCS?  
+a VCS is a Version Control System which is a system that records changes to a file or set of files over time so that you can recall specific versions later on in the programing process. It allows us to change files back to a previous state, return the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, and lastly who introduced an issue into the program potentially.
+
 Why is Git useful for a developer?  
+
 Why is Git useful for a team of developers?  
+
 How do you create a new Git repository for a project locally?  
+
 How do you create it on Github?  
 How do you commit changes?  
 What is the difference between staging and committing changes?  
