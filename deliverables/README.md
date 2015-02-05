@@ -63,13 +63,47 @@ Selectors are what identifies the html element to be styled in CSS.
 **What are properties?**  
 Properties are how CSS specifies an attribute to be modified in html.
 
-**What are values?**
+**What are values?**  
+Vaues specify the property output (ie. font size). property:value;}
 
+**How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?**  
+Elements get their default style through "cascading."  An element's style can be defined by it's class, id, by what type of element it is (ie. p{) or by the defined value of its parent elements.  The most specific definition applies.
 
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
-What are two CSS attributes you can change to push an element around on the page?  
-What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+**What are two CSS attributes you can change to push an element around on the page?**   
+Display and Position attributes move elements around a page.  Display will position the element ein relation to the elements around it, while Position will define how the element is displayed compared to the rest of the page, and then define particular positioning values.
+Element{
+  Display: inline;
+  padding: 10px;
+  }
+Element{
+  Position: relative;
+  top: 5px;
+  bottom: 5px;
+  height: 100px;
+  width:100px;
+  }
 
+**What are the three different ways to include CSS in your project or use CSS to style a particular element? **     
+CSS can be put in the HTML file via in-line:
+  Ex: <h1 style="color:red">Big Header Title</h1>
+This only changes the element it is written in line with.
+Internal:
+  <style>
+      selector{
+        property:value;
+      selector{
+        property:value;
+        }
+  </style>
+This will style all of the elements defined by the selectors in the HTML file.
+
+External:
+In a seperate CSS file.
+selector{
+  attribute:calue;
+  }
+This is ideal, as it keeps the html file clean and is more efficient.
+  
 ---
 ### Section 3: Git and Github  
 What is Git?  
