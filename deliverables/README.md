@@ -103,7 +103,10 @@ selector{
   attribute:calue;
   }
 This is ideal, as it keeps the html file clean and is more efficient.
-  
+
+**Android Logo**  
+I did this
+
 ---
 ### Section 3: Git and Github  
 What is Git?  
