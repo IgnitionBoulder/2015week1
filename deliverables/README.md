@@ -24,8 +24,7 @@ For projects on Code Academy, or other external exercises, please just paste a l
 What is the role of HTML in a web page?  
   The skeleton of a WP (web page)
 
-What is the role of CSS in a web page?
-  Allows designers to have more control and creativity over WP
+What is the role of CSS in a web page?<p>Allows designers to have more control and creativity over WP</p>
 
 What is the role of Javascript in a web page?  
   Used for interactive and dynamic display of webpage
