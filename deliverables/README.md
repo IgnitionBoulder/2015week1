@@ -44,7 +44,7 @@ What are classes and IDs (and how are they different)?
 slutty: they can be used multiple times on multiple types of elements on the same page.
 
 What are elements?  
-  Individual components on a webpage: IE a singe <p>Blah Blah</p>
+  Individual components on a webpage: IE a singe < p >Blah Blah< /p >
 
 What are tags?  
   < p > or < title > etc...
