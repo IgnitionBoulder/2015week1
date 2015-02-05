@@ -69,17 +69,21 @@ What are values?
 Values are what is in an input field.  
 
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
-
+Styles are automatically inherited by child elements from their parent elements, by an element contained inside another one.   
 
 What are two CSS attributes you can change to push an element around on the page?  
-
+Float is an element that can can be pushed to the left or right, allowing other elements to wrap around it.  
 
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+Using the element selector, id selector or class selector.
 
 ---
 ### Section 3: Git and Github  
 What is Git?  
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.  
+
 What is SCM?  
+
 What is a VCS?  
 Why is Git useful for a developer?  
 Why is Git useful for a team of developers?  
