@@ -96,10 +96,11 @@ Why is Git useful for a team of developers?
 Git allows for collaboration without confusion of using multiple files.
 
 How do you create a new Git repository for a project locally?  
-<p> "$ git commit -m 'First commit'" </p>
 
 How do you create it on Github?  
+
 How do you commit changes?  
+
 What is the difference between staging and committing changes?  
 What is the difference between committing your changes and pushing them to Github?  
 What is the command to check the status of your current repo in git?  
