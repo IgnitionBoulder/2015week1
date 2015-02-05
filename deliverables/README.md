@@ -56,9 +56,12 @@ What are forms?  forms are used to collect data from users. Users can enter data
 
 What is a div?  A div seperates elements so that each section can be individually styled and formatted
 
-What are selectors?  
-What are properties?  
-What are values?  
+What are selectors?  In CSS, selectors are patterens used to select the different HTML elements that you want to style.  
+
+What are properties?  A CSS property is what appears before the colon and describes what part of the HTML element you want to style.  
+
+What are values?  The value comes after the property, and specifies what exact changes you want to make to that property in pixels, color values, etc.  
+
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 An html element gets its style by the css slector identifying the correct html element and attribute  
 
@@ -80,7 +83,8 @@ What is a VCS?
 Version Control Systems
 
 Why is Git useful for a developer?
-Because the file storing system insures file integrity and it's easy to colloborate with other people on a project and edit code  
+Because the file storing system insures file integrity and it's easy to colloborate with other people on a project and edit code    
+
 Why is Git useful for a team of developers?  
 Because the way the code is saved allows for everyone to see exactly what changes were made at a sertain period in time so that everyone can work together and understand when and why code was changed and add their own to it  
 
@@ -90,14 +94,22 @@ Use the git init command
 How do you create it on Github?  
 Click + and then click 'new repository'. Create a name and description for your new repository. Choose between Public or Private, initialize with a README, click Create Repository   
 
-How do you commit changes?  Click 'Commit Change' at the bottom of the page  
+How do you commit changes?  Click 'Commit Change' at the bottom of the page after you have made all of your changes to the repo 
 
 What is the difference between staging and committing changes?  
+
 What is the difference between committing your changes and pushing them to Github?  
+
 What is the command to check the status of your current repo in git?  
+
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+
 How can you look through your historical commits on the Github website?  
-What is a "Merge"?  
-What is a "Pull Request"?  
-What is "Forking" a repo?  
-What is "Cloning" a repo?  
+What is a "Merge"?   
+
+What is a "Pull Request"?  After you fork a repo and make changes, you can make a Pull Request to have to original authors view your changes an decide if they want to indlude it in the final project.  
+
+What is "Forking" a repo?  Forking a repo means to create a new project based on another project that already exists  
+
+What is "Cloning" a repo?  Cloning a repo means to download a copy of the original code from a repository onto a local file on your computer  
+
