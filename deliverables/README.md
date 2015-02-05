@@ -50,25 +50,54 @@ What are tags?
 The basic structure of an HTML document includes tags, which surround content and apply meaning to it.
 
 What are attributes?  
+Tags can also have attributes, which are extra bits of information. Attributes appear inside the opening tag and their values sit inside quotation marks. Their format is <tag attribute equals value
 
-What are forms?  
+What are forms? 
+They notate to take information and send it elsewhere. (i.e., collecting emails and sending it to a mailing list)
+
 What is a div?  
+Div is used to chunk code so information can be attached to it. 
+The difference between span and div is that a span element is in-line and usually used for a small chunk of HTML inside a line (such as inside a paragraph) whereas a div (division) element is block-line (which is basically equivalent to having a line-break before and after it) and used to group larger chunks of code.
 
 What are selectors?  
+Selectors are the names given to styles in internal and external style sheets. Whereas HTML has tags, CSS has selectors. 
+
 What are properties?  
-What are values?  
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+For each selector there are “properties” inside curly brackets, which simply take the form of words such as color, font-weight or background-color.
+
+What are values? 
+A value is given to the property following a colon (NOT an “equals” sign) and semi-colons separate the properties.
+
+How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?
+You use the inherit value in the author or user style sheet. ***
+
 What are two CSS attributes you can change to push an element around on the page?  
+Floats and in-line block can be used.
+
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+
 
 ---
 ### Section 3: Git and Github  
 What is Git?  
+Git is a distributed version control systems. In these systems, clients don’t just check out the current version of the files and work from them – they mirror the entire version history. 
+
 What is SCM?  
+A source code manager is a software tool used by teams of programmers to manage source code. 
+SCM is a broader term that encompasses all the processes needed to build, package, and deploy software -- this includes VCS.
+
 What is a VCS?  
+Version Control Systems is software that provides versioning functionality
+
 Why is Git useful for a developer?  
-Why is Git useful for a team of developers?  
+Git allows a single developer to make ***
+
+Why is Git useful for a team of developers? 
+Git allows for collaboration without confusion of using multiple files.
+
 How do you create a new Git repository for a project locally?  
+<p> "$ git commit -m 'First commit'" </p>
+
 How do you create it on Github?  
 How do you commit changes?  
 What is the difference between staging and committing changes?  
