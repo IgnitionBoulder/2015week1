@@ -47,7 +47,7 @@ What are elements?
   Individual components on a webpage: IE a singe <p>Blah Blah</p>
 
 What are tags?  
-  <p> or <title> etc...
+  < p > or < title > etc...
 
 What are attributes?  
   Attach extra information to an element
