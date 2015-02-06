@@ -91,19 +91,19 @@ padding and margins
 A git is a distributed revision control system.
 
 **What is SCM?**  
-
+Source Code Management system
 
 **What is a VCS?**  
-
+Version Control System 
 
 **Why is Git useful for a developer?**   
-
+Git is useful becuase it can handle very large or small projects with efficiancy and speed.  
 
 **Why is Git useful for a team of developers?**   
-
+Git us useful for a team of developers because anyone can work on or edit the same files.
 
 **How do you create a new Git repository for a project locally?**  
-
+In Terminal change the working direct
 
 **How do you create it on Github?**
 
