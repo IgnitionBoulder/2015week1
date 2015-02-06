@@ -88,10 +88,13 @@ What is a VCS?
 a VCS is a Version Control System which is a system that records changes to a file or set of files over time so that you can recall specific versions later on in the programing process. It allows us to change files back to a previous state, return the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, and lastly who introduced an issue into the program potentially.
 
 Why is Git useful for a developer?  
+Git is usful for developers because it is an easier way for them to submit commands adn write code online. It is the main place where we can put in our work. It is a place to put and develope projects that any developer may have.
 
 Why is Git useful for a team of developers?  
+It is useful for a team of developers because each team member can centralize they work in one place. The creation of the project can happen with many team members and they can all bring they work together and when it is time to finish the project all the cading adn commands are in one place.
 
 How do you create a new Git repository for a project locally?  
+The git inital command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new empty repository. 
 
 How do you create it on Github?  
 How do you commit changes?  
