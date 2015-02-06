@@ -63,10 +63,10 @@ What are selectors?
 Selectors are patterns used to select the elements you want to style.  
 
 What are properties?  
-Properties are tags to make pages look really nice.  
+Property is an aspect of a selector. For example changing the font, color, or font size.  
 
 What are values?  
-Values are what is in an input field.  
+A value us a possible setting for a property.  
 
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 Styles are automatically inherited by child elements from their parent elements, by an element contained inside another one.   
@@ -91,8 +91,14 @@ Why is Git useful for a team of developers?
 How do you create a new Git repository for a project locally?  
 How do you create it on Github?  
 How do you commit changes?  
+
+git commit
+
 What is the difference between staging and committing changes?  
 What is the difference between committing your changes and pushing them to Github?  
+
+Commiting your changes saves the history of all of your changes locally and pushing them to Github makes them available on the web 
+
 What is the command to check the status of your current repo in git?  
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
 How can you look through your historical commits on the Github website?  
