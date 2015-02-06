@@ -94,7 +94,7 @@ How do you create a new Git repository for a project locally?
 You clone the project, and create a new project with the download data.
 
 How do you create it on Github?  
-n the upper-right corner of any page, click , and then click New repository.
+In the upper-right corner of any page, click , and then click New repository.
 Create a short, memorable name for your repository. ...
 Optionally, add a description of your repository. ...
 Choose between creating a public or private repository. ...
@@ -110,10 +110,12 @@ What is the difference between committing your changes and pushing them to Githu
 Pushing them back to Github saves it as the new file in your repo, when commmit simply records a small snapshot.
 
 What is the command to check the status of your current repo in git?  
+Git Status in terminal
 
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
 
 How can you look through your historical commits on the Github website?  
+In the right corner of the website there is the ability to look at your historical commits.
 
 What is a "Merge"?  
 Merges together multiple branches. Can put together a master branch with smaller branches.

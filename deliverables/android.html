@@ -4,7 +4,7 @@
   <title>Ignition Android</title>
   <style type='text/css'>
     div {margin: o; padding: 0;}
-    div div {background: #A4CA39; position: relative;}
+    div div {background: #0F21FB; position: relative;}
 
     .android{
       height: 404px; width: 334px;
@@ -22,8 +22,8 @@
       -webkit-transition: all 0.1s ease-in;
     }
     .l_eye, .r_eye {
-      background: #fff;
-      width: 20px; height: 20px;
+      background: Red;
+      width: 100px; height: 20px;
       position: absolute; top: 42px;
       
       border-radius: 10px;
@@ -43,13 +43,13 @@
     }
     .l_ant {
       left: 50px;
-      transform: rotate(-30deg);
+      transform: rotate(-60deg);
       -webkit-transform: rotate(-30deg);
       -moz-transform: rotate(-30deg);
     }
     .r_ant {
       right: 50px;
-      transform: rotate(30deg);
+      transform: rotate(60deg);
       -webkit-transform: rotate(30deg);
       -moz-transform: rotate(30deg);
     }
@@ -63,7 +63,7 @@
       -moz-border-radius: 0 0 25px 25px;
     }
 
-    .l_arm, .r_arm, .l_leg, .r_leg {
+    .l_arm, .r_arm, .l_leg, .r_leg, .middle_leg {
       width: 50px; position: absolute;
       -webkit-transition: all 0.1s ease-in;
     }
@@ -73,7 +73,7 @@
       -moz-border-radius: 25px;
       -webkit-border-radius: 25px;
     }
-    .l_leg, .r_leg {
+    .l_leg, .r_leg, .middle_leg {
       height: 80px; top: 182px;
       border-radius: 0 0 25px 25px;
       -moz-border-radius: 0 0 25px 25px;
@@ -81,8 +81,9 @@
     }
     .l_arm {left: -58px;}
     .r_arm {right: -58px;}
-    .l_leg {left: 45px;}
-    .r_leg {right: 45px;}
+    .middle_leg{right:90px;}
+    .l_leg {left: 14px;}
+    .r_leg {right: 19px;}
 
     .head:hover {
       -webkit-transform: rotate(-5deg) translate(-4px, -8px);
@@ -107,16 +108,14 @@
   
   <div class="android">
     <div class="head">
-      <div class="l_ant"></div>
-      <div class="r_ant"></div>
+      
       <div class="l_eye"></div>
       <div class="r_eye"></div>
     </div>
     <div class="body">
-      <div class="l_arm"></div>
-      <div class="r_arm"></div>
-      <div class="l_leg"></div>
+            <div class="l_leg"></div>
       <div class="r_leg"></div>
+      <div class="middle_leg"></div>
     </div>
   </div>
 </body>
