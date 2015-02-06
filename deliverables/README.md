@@ -81,21 +81,52 @@ What are the three different ways to include CSS in your project or use CSS to s
 ---
 ### Section 3: Git and Github  
 What is Git?  
-
+A git is a distributed revision control system.  
 
 What is SCM?  
+Source code management system. 
+
 What is a VCS?  
+Version control systems.  
+
 Why is Git useful for a developer?  
+It's able to handle all types of projects making it a versatile tool. 
+
 Why is Git useful for a team of developers?  
+Git is useful for a team of developers because it allows multiple developers to work together on a feature before pushing the work to origin.  
+
 How do you create a new Git repository for a project locally?  
+In Terminal, change the current working directory to your local project, initialize it as a Git repository, add and commit the files to local repo. 
+
 How do you create it on Github?  
+
+
 How do you commit changes?  
+
+
 What is the difference between staging and committing changes?  
+
+
 What is the difference between committing your changes and pushing them to Github?  
+
+
 What is the command to check the status of your current repo in git?  
+
+
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+
+
 How can you look through your historical commits on the Github website?  
+
+
 What is a "Merge"?  
+
+
 What is a "Pull Request"?  
+
+
 What is "Forking" a repo?  
+
+
 What is "Cloning" a repo?  
+
