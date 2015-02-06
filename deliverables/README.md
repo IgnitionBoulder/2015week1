@@ -117,11 +117,11 @@ Staging is like a preview of your modifications before you commit, you can view 
 **What is the difference between committing your changes and pushing them to Github?** 
 You have to commit them locally first then push them to Github
 
-**What is the command to check the status of your current repo in git?** 
+**What is the command to check the status of your current repo in git?**   
 git status
 
 **What is the command to see the history of your previous commits (from the command line)?**  **What are a few interesting**
-**variations (sets of options)?** 
+**variations (sets of options)?**   
 git log, git diff, git merge, git show
 
 **How can you look through your historical commits on the Github website?**   
