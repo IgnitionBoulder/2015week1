@@ -58,15 +58,20 @@ divs are used in HTML and CSS documents. In HTML, they define a division or sect
 
 **What are selectors?**<br>
 Selectors are used in CSS and allow the developer to select and manipulate HTML elements. They can "find" HTML elements based on their ID's, Classes, or attributes. <br>
-What are properties?  
-What are values?  
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
-What are two CSS attributes you can change to push an element around on the page?  
-What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+**What are properties?**<br>  
+Properties are special features that can be utilized to change the formatting of a specific element. These include colors, opacity, borders, lists, columns, etc. <br>
+**What are values?**<br> 
+Values are assigned to the properties that give them a specific task. Ex: font-size 14px, or font-family Verdana.<br>
+**How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?**<br>
+There are a couple of ways for an element to be inherited; the default browsers markup settings, the styles can be specified by the user, or the styles can be linked to the document by the author, typically through an external style sheet, through a determiend style at the beginning of the document, or within a specific element in the body (inline). <br>
+**What are two CSS attributes you can change to push an element around on the page?**<br> 
+Margin, fixed positioning, relative positioning, floating positioning
+**What are the three different ways to include CSS in your project or use CSS to style a particular element?**<br>
+In an external file, in a definition at the beginning of the document, or on a specific element in the body of the document. <br>
 
 ---
 ### Section 3: Git and Github  
-What is Git?  
+**What is Git?** 
 What is SCM?  
 What is a VCS?  
 Why is Git useful for a developer?  
