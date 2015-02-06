@@ -113,5 +113,6 @@ What is the command to see the history of your previous commits (from the comman
 How can you look through your historical commits on the Github website?
 What is a "Merge"?
 What is a "Pull Request"?
+
 What is "Forking" a repo?
 What is "Cloning" a repo?
