@@ -33,7 +33,7 @@ What is the role of Javascript in a web page?
 Why do we separate HTML and CSS?  
 
 #### HTML
-What are classes and IDs (and how are they different)?  class selectors match an element based on the contents of the element's class attribute. Id selectors match an element based on the contents of that element's ID attribute
+**What are classes and IDs (and how are they different)?**  <br/> class selectors match an element based on the contents of the element's class attribute. Id selectors match an element based on the contents of that element's ID attribute
 What are elements?    Html element is an individual component of and HTML doc or webpage. 
 What are tags?    It is a code that describes how a web page is formatted. 
 What are attributes?  An attribute is something on a page you can set such as a font. 
