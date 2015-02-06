@@ -105,7 +105,7 @@ Git us useful for a team of developers because anyone can work on or edit the sa
 **How do you create a new Git repository for a project locally?**  
 In Terminal change the working direct
 
-**How do you create it on Github?**
+**How do you create it on Github?**  
 Click "new repository" name it, describe it, make it public or private, then initialize it with a README file, click create repository.  
 
 **How do you commit changes?**  
