@@ -99,34 +99,34 @@ How do you create a new Git repository for a project locally?
 In Terminal, change the current working directory to your local project, initialize it as a Git repository, add and commit the files to local repo. 
 
 How do you create it on Github?  
-
+Click "new repository", name it, desribe it, make it public or private, initialize with a README file, create repo.  
 
 How do you commit changes?  
-
+In Github you click "commit" locally, you have to use the terminal. 
 
 What is the difference between staging and committing changes?  
-
+Staging is the set up/preview for committing, to make sure you're committing the right projects. Committing is the final step.
 
 What is the difference between committing your changes and pushing them to Github?  
-
+You first have to commit your project locally before pushing to Github. 
 
 What is the command to check the status of your current repo in git?  
-
+git status
 
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
-
+git log, git diff, git merge
 
 How can you look through your historical commits on the Github website?  
-
+History
 
 What is a "Merge"?  
-
+A merge is combining your most recent changes to the master so they become part of the main body of work. 
 
 What is a "Pull Request"?  
-
+Pull requests let you tell others about changes you've pushed to a GitHub repository.  
 
 What is "Forking" a repo?  
-
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.  
 
 What is "Cloning" a repo?  
-
+Once you have forked your own version of this repository you will need to clone it to GitHub for Mac, so that you have a syncable, local copy.  
