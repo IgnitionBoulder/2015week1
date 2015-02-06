@@ -47,7 +47,6 @@ An element is a single component of HTML Code, most elements are written with a 
 
 What are tags?  
 Tags surround content and give meaning to the content. There are opening and closing tags for all the content on the HTML work. 
-
 What are attributes?  
 An HTML attribute is a modifier of an HTML element. HTML attributes generally appear as name-value pairs. Attributes come after the tags and they help to describe the tags that they come after.   
 
@@ -94,16 +93,37 @@ Why is Git useful for a team of developers?
 It is useful for a team of developers because each team member can centralize they work in one place. The creation of the project can happen with many team members and they can all bring they work together and when it is time to finish the project all the cading adn commands are in one place.
 
 How do you create a new Git repository for a project locally?  
-The git inital command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new empty repository. 
+The git inital command creates a new Git repository. We go into our terminal adn then open up sublime text and there we have already copied over the file to there we can start to make our changes to our project. 
 
 How do you create it on Github?  
+You will, once you have changed all the things on a text editor you will through your terminal, use git add and git push to send that project to the Github.
+
 How do you commit changes?  
+To commit your changes simply type git commit on the terminal and the git you just added will commit to the Github.
+
 What is the difference between staging and committing changes?  
+Stage to Commit would be for a file that already has changes being tracked which you've since altered. You would generally only "add" a file once to begin tracking changes, and thereafter you would simply stage the file for commit that you've changed.
+
 What is the difference between committing your changes and pushing them to Github?  
+A commit is a revision so to speak or an individual change to a file or set of files, tt's like when you save a file. Where pushing your changes will actually send all your finished work to a repository such as GitHub.com.
+
 What is the command to check the status of your current repo in git?  
+The command to check our status of our repo is git status
+
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+We can do this by looking up git log in our terminal.
+
 How can you look through your historical commits on the Github website?  
+We can look at our historica commits on the GitHub website through our issues button on the website.
+
 What is a "Merge"?  
+Merging takes the changes from one branch in the same repository or from a fork, and applies them into another.  
+
 What is a "Pull Request"?  
+Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators.
+
 What is "Forking" a repo?  
-What is "Cloning" a repo?  
+Forking a repo is a personal copy of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original.  
+
+What is "Cloning" a repo? 
+Cloning a repo refers to making a copy of your repo on to your computer instead of the computers repositories.  
