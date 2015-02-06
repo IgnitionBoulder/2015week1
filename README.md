@@ -115,4 +115,5 @@ What is a "Merge"?
 What is a "Pull Request"?
 
 What is "Forking" a repo?
+
 What is "Cloning" a repo?
