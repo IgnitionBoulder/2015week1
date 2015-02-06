@@ -106,37 +106,36 @@ Git us useful for a team of developers because anyone can work on or edit the sa
 In Terminal change the working direct
 
 **How do you create it on Github?**
-
+Click "new repository" name it, describe it, make it public or private, then initialize it with a README file, click create repository.  
 
 **How do you commit changes?**  
-
+in github you click "commit" locally, you have to use the terminal
 
 **What is the difference between staging and committing changes?**  
-
+Staging is like a preview of your modifications before you commit, you can view multiple documents and stage them then choose to commit them as the final step.
 
 **What is the difference between committing your changes and pushing them to Github?** 
-
+You have to commit them locally first then push them to Github
 
 **What is the command to check the status of your current repo in git?** 
-
+git status
 
 **What is the command to see the history of your previous commits (from the command line)?**  **What are a few interesting**
-
 **variations (sets of options)?** 
-
+git log, git diff, git merge, git show
 
 **How can you look through your historical commits on the Github website?**   
-
+click "history"
 
 **What is a "Merge"?**  
-
+A merge is combining your recent work into the master file
 
 **What is a "Pull Request"?**   
-
+Pull requests let you tell others about changes you've pushed to a repository on GitHub
 
 **What is "Forking" a repo?**  
-
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
 
 **What is "Cloning" a repo?**   
-
+Once you have forked you own version of the repo you will clone it to Github so that you have a syncable local copy.
 
