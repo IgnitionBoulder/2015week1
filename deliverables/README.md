@@ -6,7 +6,7 @@ In order to deliver homework consisting of questions and answers, just edit this
   
 To answer questions, please just put the answer on the next line after the question.  Put a blank line after the answer to separate it visually from the next question.  
 
-Example:  
+---
 
 **What is your name?**  
 Alexander Maru
