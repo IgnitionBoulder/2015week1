@@ -131,15 +131,39 @@ Git is a distributed revision control system. What this means is that a group of
 same project without having to share a common network.
 
 **What is SCM?**                                                                  
+SCM is a source control management system that allows for management of changes to documents or other large
+collections of information. SCM can be embedded in other systems to allow for fluid work with edits, making
+collaboration very easy.
+
+**What is a VCS?**                                                                         
+VCS are version control systems that behave similarly to SCM, but often run as stand-alone applications.
+
+**Why is Git useful for a developer?**                                                        
+For a developer, git is very useful because it saves different versions of the project being worked on. 
+Any change in a file is basically one version of that file, which the developer can access. This 
+also makes sharing the workload, as well as editing, very easy.
+
+**Why is Git useful for a team of developers?**                                             
+When a group of developers are working on the same project, fluidity in their collaboration is very 
+important. The fact that each of the developers are working on their own version of the project means that
+they can work on it and bring it back to the central file, with their changes accredited to their names.
+
+**How do you create a new Git repository for a project locally?**
+A new git repository can be created using the command "git init" (without the quotation marks).
+
+**How do you create it on Github?**                                                          
+In the upper-right corner of any Github page, click on the plus-sign, under which there is an option 
+stating "New repository". Click on that and then follow all the steps it indicates for creating a new
+repository. When finished, click "Create repository".
+
+**How do you commit changes?**                                                            
+After making changes to a repository, click on "Commit changes", which saves your changes. You can also 
+use the "git commit" command on git. This does not, however, sync your changes to your remote repository 
+(if the change you made is on a forked repository).
+
+** What is the difference between staging and committing changes?**                
 
 
-What is a VCS?  
-Why is Git useful for a developer?  
-Why is Git useful for a team of developers?  
-How do you create a new Git repository for a project locally?  
-How do you create it on Github?  
-How do you commit changes?  
-What is the difference between staging and committing changes?  
 What is the difference between committing your changes and pushing them to Github?  
 What is the command to check the status of your current repo in git?  
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
