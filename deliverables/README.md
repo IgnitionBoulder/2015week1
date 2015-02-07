@@ -12,20 +12,26 @@ Example:
 Alexander Maru
 
 **What is your quest?**
-I seek knowledge in everything that I find interesting and exciting.  
+I seek to gain a much deeper understanding of web development, and specifically learn how HTML, CSS, 
+JavaScript etc. work together to create dynamic web pages and applications.
 
 **What is your favorite color?**
-Don't really have one, but if I were to pick, I would say red.  
+I never have a good answer to this question, but if I were to pick one, I would say red. 
+(It helps knowing that red is the very embodiment of strength and power!)
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
-HTML provides the backbone structure to the web page (ie. adding static data which the web page displays such as lists, images, text etc).
+HTML provides the backbone structure to a web page. Most web pages can be thought of simply as
+a list of structured text with headings, images, links etc. What HTML does is that it frames these structures
+and produces a raw representation of our defined page. Later on, Cascading Style Sheets(CSS) can be applied 
+for styling, and Javascript for interactivity.
 
 What is the role of CSS in a web page?  
-CSS enables control of a web page's style, or overall appearance of the HTML backbone.
+CSS is used to control a page's style or look. The overall appearance of a page we are used to seeing online is different from how a simple html file would appear. That is because CSS brings to the table the style aspect 
+of web design, which, when used, makes our structured html file look dynamic and fluid.
 
 What is the role of Javascript in a web page?  
 Javascript is used to make a web page interactive.
@@ -39,18 +45,18 @@ Why do we separate HTML and CSS?
 Modularization, or in this case the separation of HTML and CSS, allow for efficiency, 
 maintainability and reusability. This separation allows for low coupling, making updating or debugging 
 our file much easier since only one part has to be dealt with, and it is easier to identify and modify.
-On the same note, we can reuse our code much easier when they are separated, since they have low coupling.
+On the same note, we can reuse our code much more easily when they are separated.
 
 
 #### HTML
 What are classes and IDs (and how are they different)?  
-Classes are HTML attributes that allow assigning of one or more subtypes to an element of a certain type.
-IDs are attributes used to provide unique identifiers to elements within a document. The difference is that 
-the ID attribute has to be absolutely unique for an element within a page, whereas the class attribute may
-be used to apply the same value to multiple elements in a page.
+Classes are HTML attributes used to assign one or more subtypes to an element of a certain type.
+IDs are attributes used to provide unique identifiers to elements within a document. The difference 
+between them comes in that an ID has to be absolutely unique for an element within a page, whereas the
+class attribute may be used to apply the same value to multiple elements in a page.
 
 What are elements?  
-Elements consist of start and closing tags, and whatever lies in between them (ie. can be text etc).
+Elements consist of start and closing tags, and whatever lies within the tags (ie. can be text etc).
 
 What are tags?  
 
