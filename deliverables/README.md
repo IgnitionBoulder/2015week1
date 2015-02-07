@@ -12,7 +12,7 @@ Example:
 Alexander Maru
 
 **What is your quest?**
-I seek the Rails  
+I seek knowledge in everything that I find interesting and exciting.  
 
 **What is your favorite color?**
 Don't really have one, but if I were to pick, I would say red.  
@@ -22,8 +22,13 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
+HTML provides the backbone structure to the web page (ie. adding static data which the web page displays such as lists, images, text etc).
+
 What is the role of CSS in a web page?  
+CSS enables control of a web page's style, or overall appearance of the HTML backbone.
+
 What is the role of Javascript in a web page?  
+Javascript is used to make a web page interactive.
 
 ---
 
@@ -31,11 +36,25 @@ What is the role of Javascript in a web page?
 
 #### Meta
 Why do we separate HTML and CSS?  
+Modularization, or in this case the separation of HTML and CSS, allow for efficiency, 
+maintainability and reusability. This separation allows for low coupling, making updating or debugging 
+our file much easier since only one part has to be dealt with, and it is easier to identify and modify.
+On the same note, we can reuse our code much easier when they are separated, since they have low coupling.
+
 
 #### HTML
 What are classes and IDs (and how are they different)?  
+Classes are HTML attributes that allow assigning of one or more subtypes to an element of a certain type.
+IDs are attributes used to provide unique identifiers to elements within a document. The difference is that 
+the ID attribute has to be absolutely unique for an element within a page, whereas the class attribute may
+be used to apply the same value to multiple elements in a page.
+
 What are elements?  
+Elements consist of start and closing tags, and whatever lies in between them (ie. can be text etc).
+
 What are tags?  
+
+
 What are attributes?  
 What are forms?  
 What is a div?
