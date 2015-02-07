@@ -9,13 +9,13 @@ To answer questions, please just put the answer on the next line after the quest
 Example:  
 
 **What is your name?**  
-Sir Student of Ruby
+Christian Alic Kelley
 
 **What is your quest?**
-I seek the Rails  
+Become proficient at web development.    
 
 **What is your favorite color?**
-~~Green~~ edit:  No, blue.  Blue!  
+My favorite color is blue.  
 
 For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
 
