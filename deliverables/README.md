@@ -126,8 +126,13 @@ Put your html code in the `android.html` file in this folder.
 
 ---
 ### Section 3: Git and Github  
-What is Git?  
-What is SCM?  
+**What is Git?**                                                            
+Git is a distributed revision control system. What this means is that a group of people can work on the
+same project without having to share a common network.
+
+**What is SCM?**                                                                  
+
+
 What is a VCS?  
 Why is Git useful for a developer?  
 Why is Git useful for a team of developers?  
