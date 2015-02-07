@@ -11,11 +11,11 @@ To answer questions, please just put the answer on the next line after the quest
 **What is your name?**  
 Alexander Maru
 
-**What is your quest?**
+**What is your quest?** 
 I seek to gain a deeper understanding of web development, and specifically learn how HTML, CSS, 
 JavaScript etc. work together to create dynamic web pages and applications.
 
-**What is your favorite color?**
+**What is your favorite color?** 
 I never have a good answer to this question, but if I were to pick one, I would say red. 
 (It helps knowing that red is the very embodiment of strength and power!)
 
@@ -29,7 +29,7 @@ a list of structured text with headings, images, links etc. What HTML does is th
 and produces a raw representation of our defined page. Later on, Cascading Style Sheets(CSS) can be applied 
 for styling, and Javascript for interactivity.
 
-**What is the role of CSS in a web page?** 
+**What is the role of CSS in a web page?**  
 CSS is used to control a page's style or look. The overall appearance of a page we are used to seeing online is different from how a simple html file would appear. That is because CSS brings to the table the style aspect 
 of web design, which, when used, makes our structured html file look dynamic and fluid.
 
@@ -49,25 +49,25 @@ On the same note, we can reuse our code much more easily when they are separated
 
 
 #### HTML
-**What are classes and IDs (and how are they different)?** 
+**What are classes and IDs (and how are they different)?**  
 Classes are HTML attributes used to assign one or more subtypes to an element of a certain type.
 IDs are attributes used to provide unique identifiers to elements within a document. The difference 
 between them comes in that an ID has to be absolutely unique for an element within a page, whereas the
 class attribute may be used to apply the same value to multiple elements in a page.
 
-**What are elements?** 
+**What are elements?**  
 Much like an atom that is made up of three sub-atomic particles consisting of protons, electrons and neutrons, 
 similarly, an HTML element is made up of a starting tag, closing tag, and text in between. Elements are
 the atomic building blocks of our HTML code.
 
-**What are tags?** 
+**What are tags?**  
 Tags are part of HTML elements that define the meaning and structure of our HTML code. They most often come
 in pairs, namely start and closing tags. Some tags may define a table within our code, some a heading,
 and we even define an html file using starting and closing html tags ("<html>,</html>", respectively).
 Sometimes tags can be used for styling (eg. <"strong"> [text] </"strong">, makes our [text] bold etc.), but
 for the most part, we leave the styling aspect to CSS.
 
-**What are attributes?**  
+**What are attributes?**   
 HTML attributes are used to define different characteristics of elements. Attributes are entered within 
 opening tags, and they affect the behaviour of whatever is in between the opening and closing tags
 (eg. that can be a text, image etc). Most attributes have the following form: a type that initializes
@@ -76,12 +76,12 @@ If we want to set our font to Arial, for example, we would do it as follows (can
 closing tag): <"p" "style="font-face:Arial""> [text] </"p"> (without the quotation marks, with the exception
 of the ones after immediately after the equal sign.
 
-**What are forms?**  
+**What are forms?**   
 Forms are used to collect data from external source in the form of an input. This includes things like
 names, emails, passwords etc, which the form then relays to a back-end application for processing.
 The HTML tag for creating a form is <"form">[elements]</"form"> (without the quotation marks).
 
-**What is a div?**
+**What is a div?**  
 A div is an element used to represent a block-level portion of HTML code, when no other HTML elements
 are applicable. With the div tag, large sections can be defined and grouped. This allows for the defined
 group to be worked on, eg. formatted with CSS or certain attributes to be applied etc. Its syntax is
@@ -89,19 +89,19 @@ group to be worked on, eg. formatted with CSS or certain attributes to be applie
 
 
 #### CSS
-**What are selectors?**
+**What are selectors?**  
 Selectors are used to basically "select" the part of html content we want to format. The different kinds
 of selectors allow us to identify and style different parts of html. For example, a universal selector selects
 an entire html file (ie. everything that is within the <"html"> ... </"html"> tags), and an element
 selector selects specific elements with the same name. There are many more kinds of selectors, each with
 their own set of parts they select.
 
-**What are properties?**
+**What are properties?**  
 CSS properties are specific aspects of style we can modify within our html content. This includes, but is not
 limited to, properties such as font, color, width or height, which take in values and apply the values to our
 html content. 
 
-**What are values?**
+**What are values?**  
 Values are specific sets appended to their corresponding properties, which in unison format html content.
 For example, a value of Arial for the font property sets the font of the selected html content to Arial.
 The overall syntax of properties and values is "[property name]:[value];" (without the quotation marks).
