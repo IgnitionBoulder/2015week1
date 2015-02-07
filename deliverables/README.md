@@ -112,11 +112,11 @@ a color blue, then child elements without set color schemes will inherit that co
 if style is re-defined, it over-rides the previous definition. Defining a style for a child element gives
 the child element that style, over-riding whatever the parent element's style is.
 
-**What are two CSS attributes you can change to push an element around on the page?**
+**What are two CSS attributes you can change to push an element around on the page?**                           
 Position is one attribute with which elements can be pushed around on a page. Top is another attribute that
 can be used for positioning effect.
 
-**What are the three different ways to include CSS in your project or use CSS to style a particular element?**
+**What are the three different ways to include CSS in your project or use CSS to style a particular element?**     
 First method is creating a separate CSS file which can be linked to the web page being built. Second method
 is creating a CSS block within the html code, most often being placed in between the opening and closing "head"
 tags. And the third method is insertion of the CSS code right in the html tag itself.
@@ -161,10 +161,14 @@ After making changes to a repository, click on "Commit changes", which saves you
 use the "git commit" command on git. This does not, however, sync your changes to your remote repository 
 (if the change you made is on a forked repository).
 
-** What is the difference between staging and committing changes?**                
+**What is the difference between staging and committing changes?**                
+Committing changes means storing the new data in a local database (save a snapshot of your current state).
+Staging comes before committing, and what staging means is that the modified file in its current version
+has been marked to go into the next commit snapshot.
+
+**What is the difference between committing your changes and pushing them to Github?**
 
 
-What is the difference between committing your changes and pushing them to Github?  
 What is the command to check the status of your current repo in git?  
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
 How can you look through your historical commits on the Github website?  
