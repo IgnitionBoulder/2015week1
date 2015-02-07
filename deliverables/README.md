@@ -106,9 +106,20 @@ Values are specific sets appended to their corresponding properties, which in un
 For example, a value of Arial for the font property sets the font of the selected html content to Arial.
 The overall syntax of properties and values is "[property name]:[value];" (without the quotation marks).
 
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
-What are two CSS attributes you can change to push an element around on the page?  
-What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+**How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?**
+In CSS, styles can be inherited from a parent element. So if, for example, a parent element is set to 
+a color blue, then child elements without set color schemes will inherit that color and appear blue. Also, 
+if style is re-defined, it over-rides the previous definition. Defining a style for a child element gives
+the child element that style, over-riding whatever the parent element's style is.
+
+**What are two CSS attributes you can change to push an element around on the page?**
+Position is one attribute with which elements can be pushed around on a page. Top is another attribute that
+can be used for positioning effect.
+
+**What are the three different ways to include CSS in your project or use CSS to style a particular element?**
+First method is creating a separate CSS file which can be linked to the web page being built. Second method
+is creating a CSS block within the html code, most often being placed in between the opening and closing "head"
+tags. And the third method is insertion of the CSS code right in the html tag itself.
 
 #### Android
 Put your html code in the `android.html` file in this folder.
