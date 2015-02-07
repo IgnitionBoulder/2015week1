@@ -12,7 +12,7 @@ Example:
 Alexander Maru
 
 **What is your quest?**
-I seek to gain a much deeper understanding of web development, and specifically learn how HTML, CSS, 
+I seek to gain a deeper understanding of web development, and specifically learn how HTML, CSS, 
 JavaScript etc. work together to create dynamic web pages and applications.
 
 **What is your favorite color?**
@@ -82,11 +82,30 @@ names, emails, passwords etc, which the form then relays to a back-end applicati
 The HTML tag for creating a form is <"form">[elements]</"form"> (without the quotation marks).
 
 <strong>What is a div?</strong>
+A div is an element used to represent a block-level portion of HTML code, when no other HTML elements
+are applicable. With the div tag, large sections can be defined and grouped. This allows for the defined
+group to be worked on, eg. formatted with CSS or certain attributes to be applied etc. Its syntax is
+<"div">[a section of html]</"div"> (without the quotation marks).
+
 
 #### CSS
-What are selectors?  
-What are properties?  
-What are values?  
+<strong>What are selectors?</strong>
+Selectors are used to basically "select" the part of html content we want to format. The different kinds
+of selectors allow us to identify and style different parts of html. For example, a universal selector selects
+an entire html file (ie. everything that is within the <"html"> ... </"html"> tags), and an element
+selector selects specific elements with the same name. There are many more kinds of selectors, each with
+their own set of parts they select.
+
+<strong>What are properties?</strong>
+CSS properties are specific aspects of style we can modify within our html content. This includes, but is not
+limited to, properties such as font, color, width or height, which take in values and apply the values to our
+html content. 
+
+<strong>What are values?</strong>
+Values are specific sets appended to their corresponding properties, which in unison format html content.
+For example, a value of Arial for the font property sets the font of the selected html content to Arial.
+The overall syntax of properties and values is "[property name]:[value]; ...".
+
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
