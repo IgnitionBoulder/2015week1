@@ -76,7 +76,9 @@ If we want to set our font to Arial, for example, we would do it as follows (can
 closing tag): "<p style="font-face:Arial"> [text] </p>"
 
 What are forms?  
-Forms are 
+Forms are used to collect data from external source in the form of an input. This includes things like
+names, emails, passwords etc, which the form then relays to a back-end application for processing.
+The HTML tag for creating a form is <"form">[elements]</"form">.
 
 What is a div?
 
