@@ -89,7 +89,7 @@ group to be worked on, eg. formatted with CSS or certain attributes to be applie
 
 
 #### CSS
-<strong>What are selectors?</strong>
+<p><strong>What are selectors?</strong></p>
 Selectors are used to basically "select" the part of html content we want to format. The different kinds
 of selectors allow us to identify and style different parts of html. For example, a universal selector selects
 an entire html file (ie. everything that is within the <"html"> ... </"html"> tags), and an element
