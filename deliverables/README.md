@@ -11,11 +11,11 @@ To answer questions, please just put the answer on the next line after the quest
 **What is your name?**  
 Alexander Maru
 
-**What is your quest?** 
+**What is your quest?**                      
 I seek to gain a deeper understanding of web development, and specifically learn how HTML, CSS, 
 JavaScript etc. work together to create dynamic web pages and applications.
 
-**What is your favorite color?** 
+**What is your favorite color?**                                    
 I never have a good answer to this question, but if I were to pick one, I would say red. 
 (It helps knowing that red is the very embodiment of strength and power!)
 
