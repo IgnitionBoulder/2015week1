@@ -23,17 +23,17 @@ For projects on Code Academy, or other external exercises, please just paste a l
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
-What is the role of HTML in a web page?  
+<strong>What is the role of HTML in a web page?</strong>  
 HTML provides the backbone structure to a web page. Most web pages can be thought of simply as
 a list of structured text with headings, images, links etc. What HTML does is that it frames these structures
 and produces a raw representation of our defined page. Later on, Cascading Style Sheets(CSS) can be applied 
 for styling, and Javascript for interactivity.
 
-What is the role of CSS in a web page?  
+<strong>What is the role of CSS in a web page?</strong>  
 CSS is used to control a page's style or look. The overall appearance of a page we are used to seeing online is different from how a simple html file would appear. That is because CSS brings to the table the style aspect 
 of web design, which, when used, makes our structured html file look dynamic and fluid.
 
-What is the role of Javascript in a web page?  
+<strong>What is the role of Javascript in a web page?</strong>  
 Javascript is used to make a web page interactive.
 
 ---
@@ -41,7 +41,7 @@ Javascript is used to make a web page interactive.
 ### Section 2: HTML and CSS 101
 
 #### Meta
-Why do we separate HTML and CSS?  
+<strong>Why do we separate HTML and CSS?</strong>  
 Modularization, or in this case the separation of HTML and CSS, allow for efficiency, 
 maintainability and reusability. This separation allows for low coupling, making updating or debugging 
 our file much easier since only one part has to be dealt with, and it is easier to identify and modify.
@@ -49,38 +49,39 @@ On the same note, we can reuse our code much more easily when they are separated
 
 
 #### HTML
-What are classes and IDs (and how are they different)?  
+<strong>What are classes and IDs (and how are they different)?</strong>  
 Classes are HTML attributes used to assign one or more subtypes to an element of a certain type.
 IDs are attributes used to provide unique identifiers to elements within a document. The difference 
 between them comes in that an ID has to be absolutely unique for an element within a page, whereas the
 class attribute may be used to apply the same value to multiple elements in a page.
 
-What are elements?  
+<strong>What are elements?</strong>  
 Much like an atom that is made up of three sub-atomic particles consisting of protons, electrons and neutrons, 
 similarly, an HTML element is made up of a starting tag, closing tag, and text in between. Elements are
 the atomic building blocks of our HTML code.
 
-What are tags?  
+<strong>What are tags?</strong>  
 Tags are part of HTML elements that define the meaning and structure of our HTML code. They most often come
 in pairs, namely start and closing tags. Some tags may define a table within our code, some a heading,
 and we even define an html file using starting and closing html tags ("<html>,</html>", respectively).
-Sometimes tags can be used for styling (eg. "<strong> [text] </strong>", makes our [text] bold etc.), but
+Sometimes tags can be used for styling (eg. <"strong"> [text] </"strong">, makes our [text] bold etc.), but
 for the most part, we leave the styling aspect to CSS.
 
-What are attributes?  
+<strong>What are attributes?</strong>  
 HTML attributes are used to define different characteristics of elements. Attributes are entered within 
 opening tags, and they affect the behaviour of whatever is in between the opening and closing tags
 (eg. that can be a text, image etc). Most attributes have the following form: a type that initializes
 a certain attribute (eg. "src" or "style"), followed by an equal sign, and then values in quotation marks.
 If we want to set our font to Arial, for example, we would do it as follows (can be any random opening and
-closing tag): "<p style="font-face:Arial"> [text] </p>"
+closing tag): <"p" "style="font-face:Arial""> [text] </"p"> (without the quotation marks, with the exception
+of the ones after immediately after the equal sign.
 
-What are forms?  
+<strong>What are forms?</strong>  
 Forms are used to collect data from external source in the form of an input. This includes things like
 names, emails, passwords etc, which the form then relays to a back-end application for processing.
-The HTML tag for creating a form is <"form">[elements]</"form">.
+The HTML tag for creating a form is <"form">[elements]</"form"> (without the quotation marks).
 
-What is a div?
+<strong>What is a div?</strong>
 
 #### CSS
 What are selectors?  
