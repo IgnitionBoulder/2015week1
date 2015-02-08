@@ -23,8 +23,10 @@ For projects on Code Academy, or other external exercises, please just paste a l
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page? 
 It is the standard markup language used for making webpages. HTML is the backbone of all websites and translates images, video and text into a format that your browser can understand. 
+
 What is the role of CSS in a web page?  
-CSS sands for Cascading Style Sheets and is used to adjust the visual asthetics of a webpage.
+CSS stands for Cascading Style Sheets and is used to adjust the visual asthetics of a webpage.
+
 What is the role of Javascript in a web page?  
 Javascript is used to affect the behavior of HTML pages. It allows you to let the designer dynamically add functionality to their website.
 ---
@@ -33,7 +35,7 @@ Javascript is used to affect the behavior of HTML pages. It allows you to let th
 
 #### meta
 Why do we separate HTML and CSS?  
-We seperate HTML and CSS to make maintaining code easier, keeps code more efficent and it's standard programming practice
+We seperate HTML and CSS to make maintaining code easier, keeps code more efficent and it's standard programming practice.
 #### HTML
 What are classes and IDs (and how are they different)?
 They both indicate differt parts of your webpage that can be modified using CSS or Javascript. When one manipulates a class using CSS or Javascript they are modifying all the Ids within that class. When one edits a ID using CSS or Javascript they only manipulate one specific element of a webpage. 
@@ -48,15 +50,18 @@ What are attributes?
 Extra pieces of information that is a modifier of an HTML element. 
 
 What are forms?  
+They provide a way for websites to capture information from users and to process requests
 
 What is a div?  
+Defines a division or a section in an HTML document and is used to group block-elements to format them with CSS
 
 What are selectors?  
-
+Selectors in CSS refer to element(s) you want to style.
 What are properties?  
+Properties set other visual qualities to your elements. Ususally within a specific selector. 
 
 What are values?  
-
+Values are the parameters for the specific properties. Examples being hexidecimal color, font size and pixel size.
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 
 What are two CSS attributes you can change to push an element around on the page?  
