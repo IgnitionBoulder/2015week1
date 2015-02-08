@@ -148,7 +148,7 @@ When a group of developers are working on the same project, fluidity in their co
 important. The fact that each of the developers are working on their own version of the project means that
 they can work on it and bring it back to the central file, with their changes accredited to their names.
 
-**How do you create a new Git repository for a project locally?**
+**How do you create a new Git repository for a project locally?**                                        
 A new git repository can be created using the command "git init" (without the quotation marks).
 
 **How do you create it on Github?**                                                          
@@ -176,10 +176,21 @@ The command on git is: *git status*.
 **What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?**                                                            
 The main command is: *git log*. Some set of options include -p, --stat, --shortstat, --name-only, --name-status, --abbrev-commit, --relative-date, --graph and --pretty.
 
-**How can you look through your historical commits on the Github website?**                                   
+**How can you look through your historical commits on the Github website?**                                        
+Historical commits can be accessed on the website by simply selecting the specific commit and clicking on
+"History", which is an option located around the top of the page.
 
+**What is a "Merge"?**                                                                                 
+It is the recombination of two or more development histories. Merge updates all the changes made since the
+separation was made when merging. Its git command is simply: <em>git merge</em>.
 
-What is a "Merge"?  
-What is a "Pull Request"?  
-What is "Forking" a repo?  
-What is "Cloning" a repo?  
+**What is a "Pull Request"?**                                                                             
+A pull request allows one to tell others about the changes the person pushed to a repository on github.
+It allows interested parties to go through the changes before merging any modifications.
+
+**What is "Forking" a repo?**                                                                               
+Forking a repository means making a copy of that repository, allowing one to freely modify the forked
+file without affecting the original work.
+
+**What is "Cloning" a repo?**                                                                              
+Cloning a repository means getting a local copy of a repository in order to look at it or modify it.
