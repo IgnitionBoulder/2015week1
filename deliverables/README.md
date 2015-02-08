@@ -86,23 +86,50 @@ What is SCM?
 SCM is  
 
 What is a VCS?  
-Why is Git useful for a developer?  
-Why is Git useful for a team of developers?  
-How do you create a new Git repository for a project locally?  
-How do you create it on Github?  
-How do you commit changes?  
+VCS is a version control system  
 
-git commit
+Why is Git useful for a developer?  
+It is free and open source, and can keep track of all of your projects.  
+
+Why is Git useful for a team of developers?  
+Git can easily be shared and updated, it makes working with a team organized and simple.  
+
+How do you create a new Git repository for a project locally?  
+"git init" creates a new repository and "git init --bare my-new-project" would create a new project locally  
+
+How do you create it on Github?  
+When Github is open in the browser, click + sign and click New Repository.  
+
+How do you commit changes?  
+git commit  
 
 What is the difference between staging and committing changes?  
-What is the difference between committing your changes and pushing them to Github?  
+Staged means that you have marked a modified file in its current version to go into your next commit. Committed means that the data is safely stored in your local database.  
 
-Commiting your changes saves the history of all of your changes locally and pushing them to Github makes them available on the web 
+What is the difference between committing your changes and pushing them to Github?  
+Committing changes saves the data in your local database. Pushing them to Github saves them on your Github account and can be accessed online.  
 
 What is the command to check the status of your current repo in git?  
-What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+git status 
+
+What is the command to see the history of your previous commits (from the command line)?  
+git log    
+
+What are a few interesting variations (sets of options)?  
+git help, git config
+
+
 How can you look through your historical commits on the Github website?  
+When in repository, click on commits section and it shows you how many you or others have made.  
+
 What is a "Merge"?  
+Merging is combining repositories, branches and more.  
+
 What is a "Pull Request"?  
+Pull Requests are used to let other people know about changes you've pushed to a repository on Github.  
+
 What is "Forking" a repo?  
+A fork is a copy of a repository, forking a repository allows you to freely experiment with changes without affecting the original project.  
+
 What is "Cloning" a repo?  
+Cloning is creating a copy of a fork locally on your computer.  
