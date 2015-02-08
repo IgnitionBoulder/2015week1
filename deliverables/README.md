@@ -37,8 +37,9 @@ We seperate HTML and CSS to make maintaining code easier, keeps code more effice
 #### HTML
 What are classes and IDs (and how are they different)?
 They both indicate differt parts of your webpage that can be modified using CSS or Javascript. When one manipulates a class using CSS or Javascript they are modifying all the Ids within that class. When one edits a ID using CSS or Javascript they only manipulate one specific element of a webpage. 
+
 What are elements?  
-HTML elements are individual components of a webpage. They tend to mark the begining and end of a webpage 
+HTML elements are individual components of a webpage. They tend to mark the begining and end of a webpage. 
 
 What are tags?  
 HTML tags apply meaning to elements of a webpage and help apply context to the actual code within the webpage. 
@@ -47,23 +48,36 @@ What are attributes?
 Extra pieces of information that is a modifier of an HTML element. 
 
 What are forms?  
+
 What is a div?  
 
 What are selectors?  
-What are properties?  
-What are values?  
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
-What are two CSS attributes you can change to push an element around on the page?  
-What are the three different ways to include CSS in your project or use CSS to style a particular element?  
 
+What are properties?  
+
+What are values?  
+
+How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+
+What are two CSS attributes you can change to push an element around on the page?  
+
+What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+1)Type the code within the html file
+2)refrence the CSS file by using a link element.
+3)
 ---
 ### Section 3: Git and Github  
 What is Git?  
 Git is a version Control system that helps keep track of changes in one's code.
+
 What is SCM?  
+SCM stands for "Supply Chain Management" which is the oversight of information, as they move in a process from supplier to developer and to userer.
 What is a VCS? 
 A version control system is a tool that a developer or group of developers use to keep track of changes with in a project.
+
 Why is Git useful for a developer?  
+Git allows a developer to track their changes in a program and experiment without messing up their working project.
+
 Why is Git useful for a team of developers?  
 Git allows a team of developers to track changes with in their document. It also useful if one wanted to have seperate team members modify certain features in an application. For example they can build seperate branches so they can experiment with the code without messing with the running product. 
 
@@ -71,6 +85,7 @@ How do you create a new Git repository for a project locally?
 "git init"
 
 How do you create it on Github?  
+Next to your username click the "+" icon and then click the "new repository" option.
 
 How do you commit changes?  
 "git commit"
