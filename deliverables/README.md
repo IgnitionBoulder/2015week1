@@ -166,12 +166,19 @@ Committing changes means storing the new data in a local database (save a snapsh
 Staging comes before committing, and what staging means is that the modified file in its current version
 has been marked to go into the next commit snapshot.
 
-**What is the difference between committing your changes and pushing them to Github?**
+**What is the difference between committing your changes and pushing them to Github?**                      
+Committing changes only saves snapshots in the local repository, while pushing  them involves interacting
+with remote repository.
+
+**What is the command to check the status of your current repo in git?**                               
+The command on git is: *git status*.
+
+**What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?**                                                            
+The main command is: *git log*. Some set of options include -p, --stat, --shortstat, --name-only, --name-status, --abbrev-commit, --relative-date, --graph and --pretty.
+
+**How can you look through your historical commits on the Github website?**                                   
 
 
-What is the command to check the status of your current repo in git?  
-What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
-How can you look through your historical commits on the Github website?  
 What is a "Merge"?  
 What is a "Pull Request"?  
 What is "Forking" a repo?  
