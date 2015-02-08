@@ -73,9 +73,19 @@ How do you commit changes?
 What is the difference between staging and committing changes?  
 What is the difference between committing your changes and pushing them to Github?  
 What is the command to check the status of your current repo in git?  
-What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)? 
+"git log"
+"git log Shows commit logs.
 How can you look through your historical commits on the Github website?  
+"http://github.com/<username>/<project>/commits/<branch>/"
+<username> is the username of the person that owns the repo
+<project> is the repo name
+<branch> can be 'master' or any other branch
 What is a "Merge"?  
-What is a "Pull Request"?  
-What is "Forking" a repo?  
+Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+What is a "Pull Request"?
+These an area for discussion for when a developer makes a change on a repo and wants others to review it. 
+What is "Forking" a repo? 
+It's producing a personal copy of someone else’s project. Forks act as a sort of bridge between the original repository and your personal copy. 
 What is "Cloning" a repo?  
+This will copy the entire history of that project so you have it locally and it will give you a working directory of the main branch of that project so you can look at the code or start editing it
