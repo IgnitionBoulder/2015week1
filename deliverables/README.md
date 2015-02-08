@@ -44,7 +44,7 @@ What are tags?
 HTML tags apply meaning to elements of a webpage and help apply context to the actual code within the webpage. 
 
 What are attributes?  
-Extra pieces of information that is a modifier of an HTML element. An example of using attributes 
+Extra pieces of information that is a modifier of an HTML element. 
 
 What are forms?  
 What is a div?  
@@ -74,8 +74,10 @@ What is the difference between staging and committing changes?
 What is the difference between committing your changes and pushing them to Github?  
 What is the command to check the status of your current repo in git?  
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)? 
-"git log"
-"git log Shows commit logs.
+
+"git log" Shows commit logs.
+"git log -follow" Continue listing the history of a file beyond renames (works only for a single file).
+"git log -log-size" Include a line “log size <number>” in the output for each commit, where <number> is the length of that commit’s message in bytes. 
 How can you look through your historical commits on the Github website?  
 "http://github.com/<username>/<project>/commits/<branch>/"
 <username> is the username of the person that owns the repo
