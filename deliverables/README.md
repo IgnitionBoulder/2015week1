@@ -108,14 +108,32 @@ How do you create it on Github?
 <li>git push origin master </li>
 </ul>
 </p>
+
 How do you commit changes?  
+Commit following the "first commit" and down from the above question
 
 What is the difference between staging and committing changes?  
-What is the difference between committing your changes and pushing them to Github?  
+Committed means that the data is safely stored in your local database. Staged means that you have marked a modified file in its current version to go into your next commit snapshot. 
+
+What is the difference between committing your changes and pushing them to Github? 
+Committed is on your local database, while pushing them to GitHub stores them on GitHub. 
+
 What is the command to check the status of your current repo in git?  
+
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+<ul>
+<li>git log</li>
+<li>--follow</li>
+<li>--source </li>
+<li>--use mail-map</li>
+</ul>
+
 How can you look through your historical commits on the Github website?  
+Use the history tab at the top of the page.
+
 What is a "Merge"?  
+A merge joins all changes to the master branch.
+
 What is a "Pull Request"?  
 What is "Forking" a repo?  
 What is "Cloning" a repo?  
