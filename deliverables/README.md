@@ -1,4 +1,4 @@
-**Link to android logo:** http://htmlpreview.github.io/?
+**Link to android logo:** http://htmlpreview.github.io/?https://github.com/chloewolf/2015week1/blob/master/deliverables/android.html
 
 
 # Week 1 Deliverable  
