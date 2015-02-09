@@ -87,10 +87,10 @@ A source code manager is a software tool used by teams of programmers to manage 
 SCM is a broader term that encompasses all the processes needed to build, package, and deploy software -- this includes VCS.
 
 What is a VCS?  
-Version Control Systems is software that provides versioning functionality
+Version Control Systems is software that provides versioning functionality.
 
 Why is Git useful for a developer?  
-Git allows a single developer to make ***
+Git allows a single developer to make edits while tracking their changes.
 
 Why is Git useful for a team of developers? 
 Git allows for collaboration without confusion of using multiple files.
@@ -98,7 +98,14 @@ Git allows for collaboration without confusion of using multiple files.
 How do you create a new Git repository for a project locally?  
 
 How do you create it on Github?  
-
+<p>
+git init
+git add .
+git commit -m "first commit"
+git remote add origin       copy the url from the github repo
+git remote -v
+git push origin master
+</p>
 How do you commit changes?  
 
 What is the difference between staging and committing changes?  
