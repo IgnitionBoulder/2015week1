@@ -73,27 +73,27 @@ I don't understand this question.  Are you asking for three different CSS proper
 ---
 ### Section 3: Git and Github  
 What is Git?   
-Git is a cloud-hosted version control system that facilitates historical revision tracking of projects for collaborative   group
-What is SCM?   
-source code management system--includes all the processes needed to build, package, and deploy software. VCS is a subset.  
-What is a VCS?    
+Git is a cloud-hosted version control system that facilitates historical revision tracking of projects for collaborative   group 
+What is SCM?     
+source code management system--includes all the processes needed to build, package, and deploy software. VCS is a subset.    
+What is a VCS?      
 Version Control System -- any system or operating procedure that helps you keep track of a digital project, whether  
-it be a website or an excel workbook, that is continually being motified.  Usually attempts to allow modifiers to back out of changes or compare previous versions to current versions.  
-Why is Git useful for a developer?    
+it be a website or an excel workbook, that is continually being motified.  Usually attempts to allow modifiers to back out of changes or compare previous versions to current versions.    
+Why is Git useful for a developer?      
 As described previously, it's often necessary to undo changes or make comparisons between different versions of a digital  
-project.  Developers may also want to see why certain changes were made.   
-Why is Git useful for a team of developers?  
+project.  Developers may also want to see why certain changes were made.     
+Why is Git useful for a team of developers?    
 Git enables developers, who are all modifying different versions of the same project on different timelines, to merge thier  
-changes and see and workthough any conflicting changes as well as access many other version control features.  
-How do you create a new Git repository for a project locally?   
-git init project name   
-How do you create it on Github?   
+changes and see and workthough any conflicting changes as well as access many other version control features.    
+How do you create a new Git repository for a project locally?     
+git init project name     
+How do you create it on Github?     
 Select "+" in the upper righthand corner of any page on site, create name and optional description,choose whether it will  
 be public or private, select "Initialize repository with READ.Me", select "Create Repository", write "git remote add origin  
-plus git hub destination(provided) in local git terminal 
-How do you commit changes?    
-git command -m"made changes, etc"  
-What is the difference between staging and committing changes?   
+plus git hub destination(provided) in local git terminal   
+How do you commit changes?      
+git command -m"made changes, etc"    
+What is the difference between staging and committing changes?     
 staging is adding files to be examined for changes and commiting changesis making those changes a permanent, committed transaction for version control   
 What is the difference between committing your changes and pushing them to Github?   
 committing your changes makes them a permanent, committred transaction for version control purposes on your local disk  
