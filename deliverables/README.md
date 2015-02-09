@@ -92,10 +92,17 @@ How do you create a new Git repository for a project locally?
 The command line is used to creat a new Git repository for a local project.  A basic command line instruction to create a Git repository may look something like this: '$ git init'.  
 
 How do you create it on Github?  
+From the top of a user's webpage on Github is a '+' that brings down a menu, the first option of which is used to create a new repository directly.  
 
 How do you commit changes?  
+Changes can be committed directly within Github by clicking on 'Commit changes' when one is ready.  They can also be committed through the command line with '-commit'.  When using the command line, committed changes then need to be 'pushed' to Github to update to file directory from the local system to the Github directory.  When the changes are committed on Github directly, they are pushed onto the directory automatically.  
+
 What is the difference between staging and committing changes?  
+On Github, staging changes is just editing a file; the changes do not take effect until they have been committed.  In this sense, committing changes saves these changes to your file; that is, staged changes are unsaved while committed changes are saved.  
+
 What is the difference between committing your changes and pushing them to Github?  
+From the command line, commiting your changes saves the staged changes you've made to your local file on your own local system.  While these changes will appear when viewing this file on your system, the changes will not appear on Github until they have been pushed onto the appropriate directory.  
+
 What is the command to check the status of your current repo in git?  
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
 How can you look through your historical commits on the Github website?  
