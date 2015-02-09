@@ -36,45 +36,39 @@ Primarily to allow for interactions of the users with the code
 #### meta
 Why do we separate HTML and CSS?
 
-More efficiency.  If style tags had to applied to every single HTML element, designing a website would be much more tedious.  For example  
-each line of HTML in a list that should have the same style would need the same style tags repeated.  With a separate branch of code,   
-CSS, we can apply design code to types and classes of elements, thereby reducing the volume of code.  Additionally, most maintain that you  
-should separate your HTML and CSS code.  The main advantage of this practice is that: (1) it allows you to apply CSS to other HTML and visa versa  
-(2)prevents spaghetti code when scaling up and introducing more complexity and lenght to your projects.
+More efficiency.  If style tags had to applied to every single HTML element, designing a website would be much more tedious.  For example, each line of HTML in a list that should have the same style would need the same style tags repeated.  With a separate branch of code,   CSS, we can apply design code to types and classes of elements, thereby reducing the volume of code.  Additionally, most maintain that you should separate your HTML and CSS code.  The main advantage of this practice is that: (1) it allows you to apply CSS to other HTML and visa versa  (2)prevents spaghetti code when scaling up and introducing more complexity and lenght to your projects.  
 
 #### HTML
-What are classes and IDs (and how are they different)?  
-Classes are CSS selectors, along with the universal selector and HTML elements.  Classes can be used to indicate multiple elements that  
-should recive the same design treatment.  IDs should be used to modify HTML elements that should receive unique design treatment.  IDs are  
-useful because they will win out over all other CSS rules.
+What are classes and IDs (and how are they different)?    
+Classes are CSS selectors, along with the universal selector and HTML elements.  Classes can be used to indicate multiple elements that should recive the same design treatment.  IDs should be used to modify HTML elements that should receive unique design treatment.  IDs are useful because they will win out over all other CSS rules.  
 
 What are elements?
 Elements are the building blocks of HTML.  An element consists of an openning tag, content, and a closing tag. 
 What are tags?  
-Tags indicate what type of building block an element is.  For example, a tag can indicate weather or not the element is a paragrpah, a heading  
-a body, a title, etc.
-What are attributes?  
+Tags indicate what type of building block an element is.  For example, a tag can indicate weather or not the element is a paragrpah, a heading  a body, a title, etc.  
+What are attributes?    
 extra bits of information about an HTML element, including id,class, title, or style that usually sit inside the opening  
-tag and have "=" sign to indicate their value
-What are forms? Forms are points of interaction with the user.  They allow users to input data.  
-What is a div?  A division of a webpage that doesn't have any inherent semantic meaning, like paragraph or heading. They  
-provide options for altering the composition and break up of the webpage
+tag and have "=" sign to indicate their value  
+What are forms?   
+Forms are points of interaction with the user.  They allow users to input data.    
+What is a div?    
+A division of a webpage that doesn't have any inherent semantic meaning, like paragraph or heading. They  
+provide options for altering the composition and break up of the webpage  
 
 What are selectors?   
 Primarily they are the names of html tags as well as attributes that give CSS the framework for applying  
-design rules
-What are properties?   
-Properties are the different elements of style that can be applied to HTML.   For example, color, font-size, font-style, etc. 
-What are values? 
+design rules  
+What are properties?     
+Properties are the different elements of style that can be applied to HTML.   For example, color, font-size, font-style, etc.   
+What are values?   
 Values indicate the specific attribute in HTML or property in CSS.  For example, in either branch of code, the value of the  
-color would be the specific color.
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
-HTML is like a family tree, with granchildren inheriting the traits of their parents who also inherit the traits of thier parents.  
-So, some CSS styles are inhereted from styles given to elements higher in the HTML hierarchy. 
-What are two CSS attributes you can change to push an element around on the page? Margins and Borders 
-What are the three different ways to include CSS in your project or use CSS to style a particular element?  
-I don't understand this question.  Are you asking for three different CSS properties? You can use CSS to indicate different fonts  
-you can use it to place different boxes on a page, or you can use it to provide different background colors and designs.
+color would be the specific color.  
+How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?    
+HTML is like a family tree, with granchildren inheriting the traits of their parents who also inherit the traits of thier parents.So, some CSS styles are inhereted from styles given to elements higher in the HTML hierarchy.     
+What are two CSS attributes you can change to push an element around on the page?   
+Margins and Borders   
+What are the three different ways to include CSS in your project or use CSS to style a particular element?    
+I don't understand this question.  Are you asking for three different CSS properties? You can use CSS to indicate different fonts  you can use it to place different boxes on a page, or you can use it to provide different background colors and designs.  
 
 ---
 ### Section 3: Git and Github  
@@ -112,7 +106,8 @@ git log
 2. git lot --stat: shows abbreviated stats for each commit
 How can you look through your historical commits on the Github website?     
 cick on the History tab  
-What is a "Merge"?  an action in github that folds new code into the core project
+What is a "Merge"?    
+an action in github that folds new code into the core project  
 What is a "Pull Request"?    
 an offer of your code changes to the central project maintainer, asking him/her to "pull" it  
 What is "Forking" a repo?   
