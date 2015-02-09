@@ -71,21 +71,38 @@ In an external file, in a definition at the beginning of the document, or on a s
 
 ---
 ### Section 3: Git and Github  
-**What is Git?**
+**What is Git?**<br>
+Git is a control system for software development. It holds a repository of projects.<br>
 
-**What is SCM?**
-**What is a VCS?** 
-**Why is Git useful for a developer?** 
-Why is Git useful for a team of developers?  
-How do you create a new Git repository for a project locally?  
-How do you create it on Github?  
-How do you commit changes?  
-What is the difference between staging and committing changes?  
-What is the difference between committing your changes and pushing them to Github?  
-What is the command to check the status of your current repo in git?  
-What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
-How can you look through your historical commits on the Github website?  
-What is a "Merge"?  
-What is a "Pull Request"?  
-What is "Forking" a repo?  
-What is "Cloning" a repo?  
+**What is SCM?**<br>
+Software Configuration Management- it tracks and controls changes in software. <br>
+**What is a VCS?** <br>
+Veritas Cluster Server- it provides cluster capabilities to systems running other applications. <br>
+**Why is Git useful for a developer?** <br>
+It allows the developer to store all of their projects/files seamlessly. <br>
+**Why is Git useful for a team of developers?**<br>
+It also allows a team to share/integrate the files between eachother, so that it can be viewed, edited, and published from a number of users. <br>
+**How do you create a new Git repository for a project locally?**<br>
+In a new project: git init <br>
+**How do you create it on Github?** <br>
+(top right) + > Create New > New repository <br>
+**How do you commit changes?** <br>
+At the bottom of the "edit" window, you will click Commit Changes. <br>
+**What is the difference between staging and committing changes?** <br>
+Staging is basically like previewing the changes, while committing changes is like saving them for other users to see also. <br>
+**What is the difference between committing your changes and pushing them to Github?**<br>
+Committing your changes makes it live and published for any viewers that are forked in the repository, pushing them to GitHub makes them live for the world to access. <br>
+**What is the command to check the status of your current repo in git?** <br>  
+$ git status <br>
+**What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?** <br>
+git log <br>
+**How can you look through your historical commits on the Github website? ** <br>
+??? <br>
+**What is a "Merge"?** <br>
+Allows the user to review code. <br>
+**What is a "Pull Request"?** <br>
+On GitHub, a pull request allows you to tell others about the changes that you made on a website. <br>
+**What is "Forking" a repo?** <br>
+Forking basically makes a copy of a file, it allows you to make changes without directly affecting it. <br>
+**What is "Cloning" a repo?** <br>
+Duplicating a repo and using the new repo as something to work on. <br>
