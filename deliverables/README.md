@@ -83,11 +83,25 @@ What is SCM?
 Software configuration management: tracking and controlling changes in the software
 
 What is a VCS?  
-Veritas Cluster Server: provides application cluster capabilities to systems running other applications.
+Version control server: what Git is practically.
 
 Why is Git useful for a developer?  
+Local branching, convenient staging areas, and multiple workflows to name a few reasons.
+
 Why is Git useful for a team of developers?  
+Through merging, forking, pulling, and commiting changes to repos one can work locally and then share, create, and commit efforts onto the master branch.
+
 How do you create a new Git repository for a project locally?  
+Using the command line:
+$ git init
+$ git add .
+$ commit -m "First commit"
+Then on github find the remote respository URL
+$ git remote add origin -insert URL-
+$ git remote -v
+$ git push origin master
+
+
 How do you create it on Github?  
 How do you commit changes?  
 What is the difference between staging and committing changes?  
