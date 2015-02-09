@@ -103,13 +103,33 @@ $ git push origin master
 
 
 How do you create it on Github?  
+In the upper right hand corner there is a + sign with dropdown options - adding a repo is located there
+
 How do you commit changes?  
-What is the difference between staging and committing changes?  
+At the bottom of the repo there is a commit changes button - you can also make comments to your updates
+
+What is the difference between staging and committing changes? 
+There is a working directory and staging area between you and the repository. You can stage fixes by doing work in the directory and staging the work before actually making a commit to the repository.
+
 What is the difference between committing your changes and pushing them to Github?  
+Commiting is like hitting save on Github where as pushing refers to sending your committed changes to a remote repository on a site such as Github
+
 What is the command to check the status of your current repo in git?  
+$ git status
+
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+$ git log
+You can limit your searches in many ways, especially by time.
+You can also format your log output.
+
 How can you look through your historical commits on the Github website?  
+The history tab - shows a detailed log of all of your previous commits
+
 What is a "Merge"?  
+Takes the changes from one branch and applies them into another. This often happens as a pull request.
+
 What is a "Pull Request"?  
+Proposed changes to a repo that can be accepted or rejected once submitted 
+
 What is "Forking" a repo?  
 What is "Cloning" a repo?  
