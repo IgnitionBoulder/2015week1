@@ -99,12 +99,14 @@ How do you create a new Git repository for a project locally?
 
 How do you create it on Github?  
 <p>
-git init
-git add .
-git commit -m "first commit"
-git remote add origin       copy the url from the github repo
-git remote -v
-git push origin master
+<ul>
+<li> git init </li>
+<li>git add .</li>
+<li>git commit -m "first commit"</li>
+<li>git remote add origin       copy the url from the github repo</li>
+<li>git remote -v</li>
+<li>git push origin master </li>
+</ul>
 </p>
 How do you commit changes?  
 
