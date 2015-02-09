@@ -37,7 +37,7 @@ JavaScript, an object scripting language is used in web pages along with mark up
 ### Section 2: HTML and CSS 101
 
 #### meta
-Why do we separate HTML and CSS?  
+**Why do we separate HTML and CSS?** <br/>So you can easily organize and seperate what you are working on and keep track of the changes you have made once you get into larger files and programs.  
 
 #### HTML
 **What are classes and IDs (and how are they different)?**   <br/> class selectors match an element based on the contents of the element's class attribute. Id selectors match an element based on the contents of that element's ID attribute
