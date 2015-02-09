@@ -9,7 +9,7 @@ To answer questions, please just put the answer on the next line after the quest
 Example:  
 
 **What is your name?**
-Sir Master Ruby
+Alexandra Weiner
 
 **What is your quest?**
 I seek the Rails, yup that's it.  
@@ -138,4 +138,37 @@ What is a "Pull Request"?
 Pull requests let you tell others about changes you've pushed to a repository on GitHub. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary.
 
 What is "Forking" a repo?  
+Forking a repository allows you to freely experiment with changes without affecting the original project.
+
 What is "Cloning" a repo?  
+This is just called duplicating. You need to run a special clone command against the original repository and mirror-push to the new one.
+<p>
+<ul>
+<li>git clone --bare https://github.com/exampleuser/old-repository.git</li>
+<li># Make a bare clone of the repository</li>
+
+<li>cd old-repository.git</li>
+<li>git push --mirror https://github.com/exampleuser/new-repository.git</li>
+<li># Mirror-push to the new repository</li>
+
+<li>cd ..</li>
+<li>rm -rf old-repository.git</li>
+<li># Remove our temporary local repository</li>
+</ul>
+
+<p>If you want to mirror a repository in another location, including getting updates from the original, you can clone a mirror and periodically push the changes.</p>
+<ul>
+<li>git clone --mirror https://github.com/exampleuser/repository-to-mirror.git</li>
+<li># Make a bare mirrored clone of the repository</li>
+
+<li>cd repository-to-mirror.git</li>
+<li>git remote set-url --push origin https://github.com/exampleuser/mirrored</li>
+<li># Set the push location to your mirror</li>
+</ul>
+
+<p>As with a bare clone, a mirrored clone includes all remote branches and tags, but all local references will be overwritten each time you fetch, so it will always be the same as the original repository. Setting the URL for pushes simplifies pushing to your mirror. To update your mirror, fetch updates and push, which could be automated by running a cron job.</p>
+<ul>
+<li>git fetch -p origin</li>
+<li>git push --mirror</li>
+</ul>
+</p>
