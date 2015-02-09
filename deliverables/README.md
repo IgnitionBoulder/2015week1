@@ -51,11 +51,22 @@ An HTML div is an element that when used properly with opening and closing tags 
 
 #### CSS
 What are selectors?  
+CSS selectors identify the HTML elements that they will be modifying.  THey precede a set of curly brackets.  
+
 What are properties?  
+CSS properties determine what to do to the HTML elements within the curly brackets assigned to each selector.   
+
 What are values?  
+Values are the specific instructions associated to each property determining what modifications ultimately will be applied to the HTML elements associated with each selector.  
+
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+CSS styles for a a particular element get inherited from their parent values.  If no styles have been specified, then the default values are applied automatically.  The default values are assigned within each individual web browser.  
+
 What are two CSS attributes you can change to push an element around on the page?  
+Two CSS attributes a programmer can change to push an element around on the page are 'float' and 'position'.  
+
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+We can use the global CSS selector which will be applied to all elements.  We can define a class and assign it to many different elements within the HTML code and then modify the class in CSS.  And we can define an ID for a single HTML element and then modify its properties in CSS.  
 
 #### Android
 Put your html code in the `android.html` file in this folder.
