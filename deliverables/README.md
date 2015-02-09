@@ -43,10 +43,10 @@ HTML tags are markers that are used to construct the elements.  An HTML tag is t
 What are attributes?  
 Attributes are indicators used within tags to modify HTML elements.  They consist of a reference word, followed by an equals sign, and then a directive placed in quotation marks.  Attributes are placed after the initial opening tag bracket and tag type but before the initial closing bracket; it is possible to use several attributes within the same tag  
 
-What are forms? 
+What are forms?                                                                                                       
 HTML forms are elements designed to allow users to directly input information, select an option from a list, or designate certain values that apply to that user.  These HTML forms allow users to send information to a website's server directly to be processed.  
 
-What is a div? 
+What is a div?                                                                                                        
 An HTML div is an element that when used properly with opening and closing tags can be used to make different sections (or divisions) within a web page.  
 
 #### CSS
