@@ -1,13 +1,5 @@
 # Week 1 Deliverable  
 
-### Instructions  
-
-In order to deliver homework consisting of questions and answers, just edit this file and commit the changes.  Once your answers are on Github, specifically in this file, you have delivered your homework.  
-  
-To answer questions, please just put the answer on the next line after the question.  Put a blank line after the answer to separate it visually from the next question.  
-
-Example:  
-
 **What is your name?**  
 Christian Alic Kelley
 
@@ -17,13 +9,18 @@ Become proficient at web development.
 **What is your favorite color?**
 My favorite color is blue.  
 
-For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
+Code Academy Profile: http://www.codecademy.com/albatross7817 
 
 ### Section 1: The Front End
-#### Required - Answer these questions in the deliverables file, and complete the following. 
+
 What is the role of HTML in a web page?  
+HTML provides the skeleton or structure upon which functional content within a web page will be built.  
+
 What is the role of CSS in a web page?  
+CSS provides the formatting and presentation of a web page that is separate from, but referenced to the HTML skeleton.  
+
 What is the role of Javascript in a web page?  
+The role of Javascript in a web page is multi-layered; for example: it allows for direct user interaction with the web page, it allows for one to build apps and games on a web page, it allows someone to access information on the internet.  These examples are introductory and are by no means exhaustive of the role Javascript has in a web page. 
 
 ---
 
@@ -31,6 +28,7 @@ What is the role of Javascript in a web page?
 
 #### Meta
 Why do we separate HTML and CSS?  
+We separate HTML and CSS for partly for conveneience and clarity, but mostly because they play different roles in designing a web page.  In addition to having slightly different syntaxes, HTML and CSS are designed to do different tasks; the HTML provides the skeleton of the web page, while the CSS provides the elements that make the base skeleton (i.e., HTML) more interesting, useful, and appealing.  Keeping them separate is both practical and asthetic.   
 
 #### HTML
 What are classes and IDs (and how are they different)?  
