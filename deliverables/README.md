@@ -68,8 +68,8 @@ For each selector there are “properties” inside curly brackets, which simply
 What are values? 
 A value is given to the property following a colon (NOT an “equals” sign) and semi-colons separate the properties.
 
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?
-You use the inherit value in the author or user style sheet. The inheritance comes from the designated tag created by the author.
+How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+You use the inherit value in the author or user style sheet. The inheritance comes from the designated attribute created by the author.
 
 What are two CSS attributes you can change to push an element around on the page?  
 Floats and in-line block can be used.
@@ -133,6 +133,7 @@ What is the difference between committing your changes and pushing them to Githu
 Committed is on your local database, while pushing them to GitHub stores them on GitHub. 
 
 What is the command to check the status of your current repo in git?  
+You run git status to check a current repo. 
 
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
 <ul>
