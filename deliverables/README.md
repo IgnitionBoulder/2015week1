@@ -71,6 +71,10 @@ We can use the global CSS selector which will be applied to all elements.  We ca
 #### Android
 Put your html code in the `android.html` file in this folder.
 
+Link to my Android file: 
+
+http://htmlpreview.github.io/?https://github.com/albatross7817/2015week1/blob/master/deliverables/android.html
+
 ---
 ### Section 3: Git and Github  
 What is Git?  
