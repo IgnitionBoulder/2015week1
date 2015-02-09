@@ -114,8 +114,8 @@ Github website:cick on the History tab
 What is a "Merge"?  an action in github that folds new code into the core project
 What is a "Pull Request"?    
 an offer of your code changes to the central project maintainer, asking him/her to "pull" it
-What is "Forking" a repo? "helping" or changing code in a copied project in your personal account so that you can offer them  
+What is "Forking" a repo?   
+"helping" or changing code in a copied project in your personal account so that you can offer them  
 back to the core project later
 What is "Cloning" a repo?   
-A way to pull a project.  It brings all of the history and all of the branches of whatever repository you pull from github onto your local  
-disk, so you can work on, comment on etc, examine, etc
+A way to pull a project.  It brings all of the history and all of the branches of whatever repository you pull from github onto your local  disk, so you can work on, comment on etc, examine, etc
