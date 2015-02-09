@@ -32,11 +32,22 @@ We separate HTML and CSS for partly for conveneience and clarity, but mostly bec
 
 #### HTML
 What are classes and IDs (and how are they different)?  
+Classes and IDs are markers used to identify certain elements within the HTML code and then referenced to in the CSS code to apply functional content and structural attributes to them.  Classes can be appllied to many elements within the HTML file whereas IDs can be applied to only a single element.  Within the CSS file, the class formatting is referenced with '.class' and the ID formatting is referenced with '#ID' (where the 'class' and 'ID' are the specific ones created in the HTML file.  
+
 What are elements?  
+HTML elements are entities that comprise different parts of a webpage, such as a title, headings, paragraphs, lists, and so on.  These HTML elements can be combined to construct useful and practical web pages.  
+
 What are tags?  
+HTML tags are markers that are used to construct the elements.  An HTML tag is typically comprised of an opening <-> and closing </-> where '-' is the type of element to be constructed; for example, 'p' for paragraph, 'ol' for ordered list, 'li' for a list element, and so on.  
+
 What are attributes?  
-What are forms?  
-What is a div?
+Attributes are indicators used within tags to modify HTML elements.  They consist of a reference word, followed by an equals sign, and then a directive placed in quotation marks.  Attributes are placed after the initial opening tag bracket and tag type but before the initial closing bracket; it is possible to use several attributes within the same tag  
+
+What are forms? 
+HTML forms are elements designed to allow users to directly input information, select an option from a list, or designate certain values that apply to that user.  These HTML forms allow users to send information to a website's server directly to be processed.  
+
+What is a div? 
+An HTML div is an element that when used properly with opening and closing tags can be used to make different sections (or divisions) within a web page.  
 
 #### CSS
 What are selectors?  
