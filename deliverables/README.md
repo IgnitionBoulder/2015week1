@@ -104,8 +104,13 @@ What is the difference between committing your changes and pushing them to Githu
 From the command line, commiting your changes saves the staged changes you've made to your local file on your own local system.  While these changes will appear when viewing this file on your system, the changes will not appear on Github until they have been pushed onto the appropriate directory.  
 
 What is the command to check the status of your current repo in git?  
+From the command line, simply type 'git status' and the current state of the repository  will be returned.  
+
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+To see the history of previous commits from the command line use the 'git log' command.  There are many options to go with the 'git log' command.  Adding '-p' shows the difference introduced in each commit made.  Using '--stat' shows statistics for files modified via each commit while '--shortstat' displays only the changed/insertions/deletions line that is called from the --stat command.  The '--pretty' option allows one to change the output format from defualt to other alternatives, such as '=oneline' (prints each commit on a single line); and the options '=short', '=full', and '=fuller' allow one to specify less or more information regarding each commit as desired.  
+
 How can you look through your historical commits on the Github website?  
+
 What is a "Merge"?  
 What is a "Pull Request"?  
 What is "Forking" a repo?  
