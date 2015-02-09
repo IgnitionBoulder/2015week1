@@ -43,7 +43,7 @@ You can do most CSS in the HTML (in line CSS), but it is easier to visualize and
 
 #### HTML
 What are classes and IDs (and how are they different)?
-Classes are groupings of content that you want the same CSS changes to be applied to. If you create <li class"fancy"> this line along with all the other members of that class, will be treated the same. 
+Classes are groupings of content that you want the same CSS changes to be applied to. If you create (li class"fancy") this line along with all the other members of that class, will be treated the same. 
 An ID applies to a single element that you want to be different from the of the same element. If you only wanted one line to have a partticular style, you can use the ID attribute. 
 Classes and IDs give more specific instructions and functions compared to regular tags.
 
@@ -62,18 +62,30 @@ What is a div?
 Divs are containers that allow the code to be put into sections on the page. 
 
 What are selectors? 
+Selectors use attributes of an HTML element to select a specific element. Ex: # is a selector indicating ID in CSS.
 
 What are properties?  
+Once an attribute is assigned and the browser processes the code, a node will be created and these nodes have properties. Properties like align, alt, attributes etc. 
+
 What are values?  
+Values give a hexadecimal value to colors. Instead of red, there is #458393. It gives a value to colors. 
+
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+
 What are two CSS attributes you can change to push an element around on the page?  
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
 
 ---
 ### Section 3: Git and Github  
-What is Git?  
+What is Git?
+Git is a system that allows revision control for software development. 
+
 What is SCM?  
+Source code manager. Used to manage source code and track revisions in software.  
+
 What is a VCS?  
+Veritas Cluster Server provides cluster capabilities to systems running other applications. 
+
 Why is Git useful for a developer?  
 Why is Git useful for a team of developers?  
 How do you create a new Git repository for a project locally?  
