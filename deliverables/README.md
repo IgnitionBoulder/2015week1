@@ -57,13 +57,13 @@ class attribute may be used to apply the same value to multiple elements in a pa
 
 **What are elements?**  
 Much like an atom that is made up of three sub-atomic particles consisting of protons, electrons and neutrons, 
-similarly, an HTML element is made up of a starting tag, closing tag, and text in between. Elements are
+similarly, an HTML element is made up of a opening tag, closing tag, and text in between. Elements are
 the atomic building blocks of our HTML code.
 
 **What are tags?**  
 Tags are part of HTML elements that define the meaning and structure of our HTML code. They most often come
 in pairs, namely start and closing tags. Some tags may define a table within our code, some a heading,
-and we even define an html file using starting and closing html tags ("<html>,</html>", respectively).
+and we even define an html file using starting and closing html tags (<"html"></"html">).
 Sometimes tags can be used for styling (eg. <"strong"> [text] </"strong">, makes our [text] bold etc.), but
 for the most part, we leave the styling aspect to CSS.
 
@@ -74,7 +74,7 @@ opening tags, and they affect the behaviour of whatever is in between the openin
 a certain attribute (eg. "src" or "style"), followed by an equal sign, and then values in quotation marks.
 If we want to set our font to Arial, for example, we would do it as follows (can be any random opening and
 closing tag): <"p" "style="font-face:Arial""> [text] </"p"> (without the quotation marks, with the exception
-of the ones after immediately after the equal sign.
+of the ones immediately after the equal sign.
 
 **What are forms?**   
 Forms are used to collect data from external source in the form of an input. This includes things like
