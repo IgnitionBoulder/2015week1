@@ -52,7 +52,7 @@ The basic structure of an HTML document includes tags, which surround content an
 What are attributes?  
 Tags can also have attributes, which are extra bits of information. Attributes appear inside the opening tag and their values sit inside quotation marks. Their format is <tag attribute equals value
 
-What are forms? 
+What are forms?  
 They notate to take information and send it elsewhere. (i.e., collecting emails and sending it to a mailing list)
 
 What is a div?  
@@ -95,7 +95,7 @@ Git allows a single developer to make edits while tracking their changes.
 Why is Git useful for a team of developers?  
 Git allows for collaboration without confusion of using multiple files.
 
-How do you create a new Git repository for a project locally? 
+How do you create a new Git repository for a project locally?  
 The following is a sample of how to create and push the code from your local database to a remote repo. 
 <ul> 
 <li>$ git init</li>
@@ -129,7 +129,7 @@ Commit following the "first commit" and down from the above question
 What is the difference between staging and committing changes?  
 Committed means that the data is safely stored in your local database. Staged means that you have marked a modified file in its current version to go into your next commit snapshot. 
 
-What is the difference between committing your changes and pushing them to Github? 
+What is the difference between committing your changes and pushing them to Github?  
 Committed is on your local database, while pushing them to GitHub stores them on GitHub. 
 
 What is the command to check the status of your current repo in git?  
