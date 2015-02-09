@@ -99,7 +99,8 @@ It allows developers to both track progress and revert bad changes easily, as we
 compartmentalization of new features  
 
 Why is Git useful for a team of developers?  
-//TODO
+The development cycle and features can be tracked easier with git, and one can isolate different
+sections of a project with branches similar to if it were just a single developer. 
 
 How do you create a new Git repository for a project locally?  
 git init
@@ -142,3 +143,7 @@ forking is copying a repo into one's own account
 
 What is "Cloning" a repo?  
 cloning a repo is copying a repo from a remote repository to a local version  
+
+
+Android Assignment  
+http://htmlpreview.github.io/?https://github.com/SimonRuppGreene/2015week1/blob/master/deliverables/android.html
