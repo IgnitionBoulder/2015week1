@@ -63,18 +63,28 @@ What are properties?
 There are tons and tons of properties; change how the code is represented; ex: font-family, font-size, color, border, etc.
 
 What are values?  
-Values are what follow properties such as color exmaples, font exmaples, sizes.
+Values are what follow properties such as color exmaples, font exmaples, sizes; paired with attributes
 
-Paired with attributes;
-How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles? 
+Front its parent. Some styles (such as family-font, text-alignment, etc.) are automatically inherited by child elements from their parent element (i.e. by an element contained inside another one).
+
 What are two CSS attributes you can change to push an element around on the page?  
+id and and class
+
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+Borders (border-collpase, border sizes, etc.), tables (td, th, width, height, etc.), links (a:link, a:visited, a:hover, etc.), background colors - there are many more. 
 
 ---
 ### Section 3: Git and Github  
 What is Git?  
+A control system software for software development that contains repositories.  
+
 What is SCM?  
+Software configuration management: tracking and controlling changes in the software
+
 What is a VCS?  
+Veritas Cluster Server: provides application cluster capabilities to systems running other applications.
+
 Why is Git useful for a developer?  
 Why is Git useful for a team of developers?  
 How do you create a new Git repository for a project locally?  
