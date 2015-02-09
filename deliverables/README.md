@@ -48,17 +48,21 @@ An ID applies to a single element that you want to be different from the of the 
 Classes and IDs give more specific instructions and functions compared to regular tags.
 
 What are elements?  
-Elements are the content of a particular tag. Ex. <p> this is a paragraph </p>, the text "this is a paragraph" is an element while the <p> are the tags. 
+Elements are the content of a particular tag. Ex. 'this is a paragraph', the text (this is a paragraph) is an element while the p are the tags. 
 
 What are tags?  
-Tags give specification to elements on where they will be in the code. Tags open with <> and close with </>. A tag of <h3> blah blah</h3> will be in a different place and have a different meaning than the same text with <p> </p> tags. 
+Tags give specification to elements on where they will be in the code. Tags open with <> and close with </>. A tag of h3 blah blah h3 will be in a different place and have a different meaning than the same text with p tags. 
 
-What are attributes?  Attributes are properties of code that assign a different meaning to a common tag. Ex. <p id"serious">. The ID makes the paragraph differnt than a normal paragraph.
+What are attributes?  Attributes are properties of code that assign a different meaning to a common tag. Ex. p id"serious". The ID makes the paragraph differnt than a normal paragraph.
 
-What are forms?  
-What is a div?  
+What are forms? 
+are special elements called controls that are used to make things like check boxes, menus etc. 
 
-What are selectors?  
+What is a div?
+Divs are containers that allow the code to be put into sections on the page. 
+
+What are selectors? 
+
 What are properties?  
 What are values?  
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
