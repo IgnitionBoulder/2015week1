@@ -22,7 +22,7 @@ For projects on Code Academy, or other external exercises, please just paste a l
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
 What is the role of HTML in a web page?  
-It provides the framework.
+It provides the framework and provides the meaning and content. 
 
 What is the role of CSS in a web page?  
 It creates the presentation of html.
@@ -69,13 +69,13 @@ What are values?
 A value is given to the property following a colon (NOT an “equals” sign) and semi-colons separate the properties.
 
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?
-You use the inherit value in the author or user style sheet. ***
+You use the inherit value in the author or user style sheet. The inheritance comes from the designated tag created by the author.
 
 What are two CSS attributes you can change to push an element around on the page?  
 Floats and in-line block can be used.
 
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
-
+text-decoration, text-align, text-indent can all be used to style CSS text. 
 
 ---
 ### Section 3: Git and Github  
@@ -95,7 +95,21 @@ Git allows a single developer to make edits while tracking their changes.
 Why is Git useful for a team of developers? 
 Git allows for collaboration without confusion of using multiple files.
 
-How do you create a new Git repository for a project locally?  
+How do you create a new Git repository for a project locally? 
+The following is a sample of how to create and push the code from your local database to a remote repo. 
+<ul> 
+<li>$ git init</li>
+<li>Initialized empty Git repository in "url"/</li>
+<li>$ cd /usr/local/remoteGit</li>
+<li>$ git init --bare</li>
+<li>Initialized empty Git repository in /usr/local/remoteGit</li>
+<li>$ cd "url"</li>
+<li>$ echo "hello" > hello.txt</li>
+<li>$ git add hello.txt</li>
+<li>$ git commit -m "Initial import" # commit to the local repository</li>
+<li>$ git remote add origin /usr/local/remoteGit # configure the path to the remote repository</li>
+<li>$ git push # push the code to the remote repository</li>
+</ul>
 
 How do you create it on Github?  
 <p>
