@@ -68,7 +68,10 @@ HTML is like a family tree, with granchildren inheriting the traits of their par
 What are two CSS attributes you can change to push an element around on the page?   
 Margins and Borders   
 What are the three different ways to include CSS in your project or use CSS to style a particular element?    
-I don't understand this question.  Are you asking for three different CSS properties? You can use CSS to indicate different fonts  you can use it to place different boxes on a page, or you can use it to provide different background colors and designs.  
+I don't understand this question.  Are you asking for three different CSS properties? You can use CSS to indicate different fonts  you can use it to place different boxes on a page, or you can use it to provide different background colors and designs.    
+Android Logo:  
+http://htmlpreview.github.io/?https://github.com/econno11y/2015week1/blob/master/deliverables/android.html  
+
 
 ---
 ### Section 3: Git and Github  
