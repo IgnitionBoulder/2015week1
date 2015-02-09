@@ -71,7 +71,7 @@ How do CSS styles for a particular element get inherited? ie. how does an elemen
 There is a hierarchy of properties for every element, the more specific the selector, the higher precedence it takes. Also, the last selector of the same type will take precedence.
 
 What are two CSS attributes you can change to push an element around on the page?  
-You can change "right:" or "left:" in order to move around elements. I was confused by this question since I thought attributes were within HML tags.
+You can change "right:" or "left:" in order to move around elements. I was confused by this question since I thought attributes were within HML tags, if it was meant to say properties, then you can use "right:" or "left:" still.
 
 What are the three different ways to include CSS in your project or use CSS to style a particular element? 
 You can identify a font-type for everything within <p></p> tags, you can change the background color of every item in your list, or you can change the size of every one of your table elements to a percentage of the page.
