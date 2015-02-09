@@ -3,10 +3,10 @@
 **What is your name?**  
 Christian Alic Kelley
 
-**What is your quest?**
+**What is your quest?**                                                                                              
 Become proficient at web development.    
 
-**What is your favorite color?**
+**What is your favorite color?**                                                                                    
 My favorite color is blue.  
 
 Code Academy Profile: http://www.codecademy.com/albatross7817 
@@ -74,12 +74,25 @@ Put your html code in the `android.html` file in this folder.
 ---
 ### Section 3: Git and Github  
 What is Git?  
+Git is a distributed revision control system used for software development.  
+
 What is SCM?  
+Source Code Management (SCM) is software that allows developers to design and implement changes to codes in a manner that can keep each developer's files separate but can also integrate code from many developers files to apply changes and prevent these changes from being altered without permission.  
+
 What is a VCS?  
+A Version Control System (VCS) is a stand-alone application that can be embedded in software packages and used to track edits made by individual programmers, allow for changes and modifications to be made or undone, and also can be used to compare and merge separate files.  
+
 Why is Git useful for a developer?  
+Git is useful for a developer because it provides a network and server indepenent system that provides a developer a centralized location to create, modify, and track changes to their code.  And its free!  
+
 Why is Git useful for a team of developers?  
+Git is useful for a team of developers because they can compare files, track changes to one another's files, and merge files or parts of files to create new more useful code.  Ultimately, Git allows a team of developers to be more efficient at crating and maintaining useful code in an enviroment that allows collaboration and teamwork rather than each developer using their own separate programs.  And it's free!  
+
 How do you create a new Git repository for a project locally?  
+The command line is used to creat a new Git repository for a local project.  A basic command line instruction to create a Git repository may look something like this: '$ git init'.  
+
 How do you create it on Github?  
+
 How do you commit changes?  
 What is the difference between staging and committing changes?  
 What is the difference between committing your changes and pushing them to Github?  
