@@ -79,38 +79,39 @@ you can use it to place different boxes on a page, or you can use it to provide 
 ---
 ### Section 3: Git and Github  
 What is Git?   
-Git is a cloud-hosted version control system that facilitates historical revision tracking of projects for collaborative group
+Git is a cloud-hosted version control system that facilitates historical revision tracking of projects for collaborative   group
 What is SCM?   
-source code management system--includes all the processes needed to build, package, and deploy software. VCS is a subset.
+source code management system--includes all the processes needed to build, package, and deploy software. VCS is a subset.  
 What is a VCS?    
 Version Control System -- any system or operating procedure that helps you keep track of a digital project, whether  
-it be a website or an excel workbook, that is continually being motified.  Usually attempts to allow modifiers to back out of changes  
-or compare previous versions to current versions.
+it be a website or an excel workbook, that is continually being motified.  Usually attempts to allow modifiers to back out of changes or compare previous versions to current versions.  
 Why is Git useful for a developer?    
 As described previously, it's often necessary to undo changes or make comparisons between different versions of a digital  
-project.  Developers may also want to see why certain changes were made. 
+project.  Developers may also want to see why certain changes were made.   
 Why is Git useful for a team of developers?  
 Git enables developers, who are all modifying different versions of the same project on different timelines, to merge thier  
-changes and see and workthough any conflicting changes as well as access many other version control features.
-How do you create a new Git repository for a project locally? git init project name   
+changes and see and workthough any conflicting changes as well as access many other version control features.  
+How do you create a new Git repository for a project locally?   
+git init project name   
 How do you create it on Github?   
 Select "+" in the upper righthand corner of any page on site, create name and optional description,choose whether it will  
 be public or private, select "Initialize repository with READ.Me", select "Create Repository", write "git remote add origin  
-plus git hub destination(provided) in local git terminal
+plus git hub destination(provided) in local git terminal 
 How do you commit changes?    
-git command -m"made changes, etc"
+git command -m"made changes, etc"  
 What is the difference between staging and committing changes?   
-staging is adding files to be examined for changes and commiting changes is  
-is making those changes a permanent, committed transaction for version control 
-What is the difference between committing your changes and pushing them to Github?  
+staging is adding files to be examined for changes and commiting changesis making those changes a permanent, committed transaction for version control   
+What is the difference between committing your changes and pushing them to Github?   
+committing your changes makes them a permanent, committred transaction for version control purposes on your local disk  
+and pushing them puts the changes onto the github server  
 What is the command to check the status of your current repo in git?    
 git status
-What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
-How can you look through your historical commits on the Github website?   
-git log 
+What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?   
+git log    
 1. git log -p -#(of entries you want to see): shows difference introduced in each commit  
-2. git lot --stat: shows abbreviated stats for each commit  
-Github website:cick on the History tab
+2. git lot --stat: shows abbreviated stats for each commit
+How can you look through your historical commits on the Github website?     
+cick on the History tab  
 What is a "Merge"?  an action in github that folds new code into the core project
 What is a "Pull Request"?    
 an offer of your code changes to the central project maintainer, asking him/her to "pull" it  
