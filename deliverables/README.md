@@ -132,4 +132,7 @@ What is a "Pull Request"?
 Proposed changes to a repo that can be accepted or rejected once submitted 
 
 What is "Forking" a repo?  
+Creating a copy of someone elses repo that lives on your account.
+
 What is "Cloning" a repo?  
+A clone is a copy of a repo that lives on your computer instead of on a website's server. You can later push the edits of the local clone back the cloud.
