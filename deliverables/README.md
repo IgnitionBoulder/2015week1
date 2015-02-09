@@ -88,8 +88,7 @@ changes and see and workthough any conflicting changes as well as access many ot
 How do you create a new Git repository for a project locally?     
 git init project name     
 How do you create it on Github?     
-Select "+" in the upper righthand corner of any page on site, create name and optional description,choose whether it will be public or private, select "Initialize repository with READ.Me", select "Create Repository", write "git remote add origin  
-plus git hub destination(provided) in local git terminal       
+Select "+" in the upper righthand corner of any page on site, create name and optional description,choose whether it will be public or private, select "Initialize repository with READ.Me", select "Create Repository", write "git remote add origin plus git hub destination(provided) in local git terminal       
 How do you commit changes?      
 git command -m"made changes, etc"      
 What is the difference between staging and committing changes?     
