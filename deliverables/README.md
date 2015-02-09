@@ -126,3 +126,6 @@ It's producing a personal copy of someone else’s project. Forks act as a sort 
 
 What is "Cloning" a repo?  
 This will copy the entire history of that project so you have it locally and it will give you a working directory of the main branch of that project so you can look at the code or start editing it
+
+Android CSS/HTML exercise:
+http://htmlpreview.github.io/?https://github.com/Nolawee/2015week1/blob/master/deliverables/android.html
