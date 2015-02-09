@@ -88,16 +88,14 @@ changes and see and workthough any conflicting changes as well as access many ot
 How do you create a new Git repository for a project locally?     
 git init project name     
 How do you create it on Github?     
-Select "+" in the upper righthand corner of any page on site, create name and optional description,choose whether it will  
-be public or private, select "Initialize repository with READ.Me", select "Create Repository", write "git remote add origin  
-plus git hub destination(provided) in local git terminal     
+Select "+" in the upper righthand corner of any page on site, create name and optional description,choose whether it will be public or private, select "Initialize repository with READ.Me", select "Create Repository", write "git remote add origin  
+plus git hub destination(provided) in local git terminal       
 How do you commit changes?      
 git command -m"made changes, etc"      
 What is the difference between staging and committing changes?     
 staging is adding files to be examined for changes and commiting changesis making those changes a permanent, committed transaction for version control     
 What is the difference between committing your changes and pushing them to Github?     
-committing your changes makes them a permanent, committred transaction for version control purposes on your local disk  
-and pushing them puts the changes onto the github server  
+committing your changes makes them a permanent, committred transaction for version control purposes on your local disk and pushing them puts the changes onto the github server  
 What is the command to check the status of your current repo in git?    
 git status  
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?   
