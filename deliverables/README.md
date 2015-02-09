@@ -110,8 +110,16 @@ What is the command to see the history of your previous commits (from the comman
 To see the history of previous commits from the command line use the 'git log' command.  There are many options to go with the 'git log' command.  Adding '-p' shows the difference introduced in each commit made.  Using '--stat' shows statistics for files modified via each commit while '--shortstat' displays only the changed/insertions/deletions line that is called from the --stat command.  The '--pretty' option allows one to change the output format from defualt to other alternatives, such as '=oneline' (prints each commit on a single line); and the options '=short', '=full', and '=fuller' allow one to specify less or more information regarding each commit as desired.  
 
 How can you look through your historical commits on the Github website?  
+From the Github website, open the repository you wish to view the commits for.  Then at the top is a link to 'Commits' that when opened will provide a history of the commits made.  
 
 What is a "Merge"?  
+A "Merge" is a way of combining files together from different branches into the same branch or a newly created one.  
+
 What is a "Pull Request"?  
+A "Pull Request" is a formal way to let other developers know that you've commited changes to a file and pushed them to a repository on your Github profile.  After sending a pull request, others can review your changes and modify them if/as needed.  
+
 What is "Forking" a repo?  
+"Forking" a repo on Github creates a repo file on your profile from another branch.  Essentially a copy of the repo from the desired branch is created in your own Github profile using the fork command.  
+
 What is "Cloning" a repo?  
+"Cloning" a repo is a method of copying a repo file from your Github profile to another site other than Github, for example Cloud 9.  From my Cloud 9 account, I can clone a repo from my Github account; once the clone action has been completed, a copy of the the Github repo will now exist in my Cloud 9 account.  
