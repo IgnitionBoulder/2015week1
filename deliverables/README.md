@@ -92,7 +92,7 @@ Version Control Systems is software that provides versioning functionality.
 Why is Git useful for a developer?  
 Git allows a single developer to make edits while tracking their changes.
 
-Why is Git useful for a team of developers? 
+Why is Git useful for a team of developers?  
 Git allows for collaboration without confusion of using multiple files.
 
 How do you create a new Git repository for a project locally? 
