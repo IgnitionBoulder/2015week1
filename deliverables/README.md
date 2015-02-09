@@ -98,7 +98,7 @@ How do you commit changes?  Click 'Commit Change' at the bottom of the page afte
 
 What is the difference between staging and committing changes?  
 
-What is the difference between committing your changes and pushing them to Github?  
+What is the difference between committing your changes and pushing them to Github?  When changes have been staged, that means that git knows about the change, but it is not permanent in the repository. The next commit will include the changes that were staged.
 
 What is the command to check the status of your current repo in git?  
 git status  
@@ -108,9 +108,9 @@ What is the command to see the history of your previous commits (from the comman
 The git log command shows your history of previous commits in reverese chronological order. One option is git log -p which shows the difference in each commit, or the command git log -2 which shows only the last two entries.  
 
 
+How can you look through your historical commits on the Github website?  Click on the "History" button at the top right of the repository.  
+What is a "Merge"?   When your changes have diverged from the current branch, you can merge them back together in the same branch by a git merge command.  
 
-How can you look through your historical commits on the Github website?  
-What is a "Merge"?   
 
 What is a "Pull Request"?  After you fork a repo and make changes, you can make a Pull Request to have to original authors view your changes an decide if they want to indlude it in the final project.  
 
