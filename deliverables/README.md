@@ -36,16 +36,25 @@ How the page functions. The interaction with the page.
 ### Section 2: HTML and CSS 101
 
 #### meta
-Why do we separate HTML and CSS? There is no need to throw make up on your bones because no one is going to see it. Make up is the polish that makes it presentable and engaging.  
+Why do we separate HTML and CSS?
+You can do most CSS in the HTML (in line CSS), but it is easier to visualize and organize code if they are separated into "mark up" and "make up". Also by using a separate CSS file, you can have more complex and specifc instructions so there is less work. 
 
 
 
 #### HTML
-What are classes and IDs (and how are they different)?  
-Classes and IDs give more specific instructions and functions compared to regular tags.  
+What are classes and IDs (and how are they different)?
+Classes are groupings of content that you want the same CSS changes to be applied to. If you create <li class"fancy"> this line along with all the other members of that class, will be treated the same. 
+An ID applies to a single element that you want to be different from the of the same element. If you only wanted one line to have a partticular style, you can use the ID attribute. 
+Classes and IDs give more specific instructions and functions compared to regular tags.
+
 What are elements?  
+Elements are the content of a particular tag. Ex. <p> this is a paragraph </p>, the text "this is a paragraph" is an element while the <p> are the tags. 
+
 What are tags?  
-What are attributes?  
+Tags give specification to elements on where they will be in the code. Tags open with <> and close with </>. A tag of <h3> blah blah</h3> will be in a different place and have a different meaning than the same text with <p> </p> tags. 
+
+What are attributes?  Attributes are properties of code that assign a different meaning to a common tag. Ex. <p id"serious">. The ID makes the paragraph differnt than a normal paragraph.
+
 What are forms?  
 What is a div?  
 
