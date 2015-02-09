@@ -29,7 +29,9 @@ What is the role of CSS in a web page?
 CSS defines the presentation of a web page.
 
 What is the role of Javascript in a web page?  
-Javascript provides interactivity within a web page.
+Javascript provides interactivity within a web page.  
+
+
 ---
 
 ### Section 2: HTML and CSS 101
@@ -77,9 +79,9 @@ What are two CSS attributes you can change to push an element around on the page
 Float and top/left
 
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
-- include from file with <link rel="stylesheet" href="/path/to/stylesheet">
-- inline in the tag with the style attribute like <p style="color: red;">asdf</p>
-- between <style></style> tags
+- include from file with '''<link rel="stylesheet" href="/path/to/stylesheet">'''
+- inline in the tag with the style attribute like '''<p style="color: red;">asdf</p>'''
+- between '''<style></style>''' tags
 
 ---
 ### Section 3: Git and Github  
@@ -109,7 +111,7 @@ How do you create it on Github?
 Click new repository > enter repo name and description 
 
 How do you commit changes?  
-1. First add files to commit with git add <files>  
+1. First add files to commit with '''git add <files>'''  
 2. commit the changes with git commit -m "commit message goes here"  
 
 What is the difference between staging and committing changes?  
@@ -122,11 +124,13 @@ What is the command to check the status of your current repo in git?
 git status  
 
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+'''  
 git log  
  -n <#> : limits commits displayed to the # given  
  -until=<date> : shows commits older than date  
  -since=<date> : shows commmits newer than date  
  -author=<pattern> : matches regex pattern with commit author  
+ '''
 
 How can you look through your historical commits on the Github website?  
 click the "<#> commits" button that says how many commits the repo has, it's below  
