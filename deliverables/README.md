@@ -1,6 +1,6 @@
 # Week 1 Deliverable  
 
-#Link to Android logo#  
+**Link to Android logo**  
 http://htmlpreview.github.io/?
 https://github.com/bpatience/2015week1/blob/master/deliverables/android.html
 
