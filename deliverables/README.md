@@ -82,19 +82,34 @@ Put your html code in the `android.html` file in this folder.
 ---
 ### Section 3: Git and Github  
 What is Git?  Git is a VCS which stores and tracks code changes and keeps versions. 
+
 What is SCM? Software configuration management; the tracking and controlling of changes in software.  
+
 What is a VCS?  Version control system which handles the goals of an SCM by creating a framework to track software changes and versions. 
+
 Why is Git useful for a developer?  It allows a developer to update code while being able to keep revisions and changes incase code breaks in the future.
+
 Why is Git useful for a team of developers?  Teams can track other member's changes as well as be notified when there are changes in code.Teams can also work on different branches and merge to centralized source code.
+
 How do you create a new Git repository for a project locally?  git init (name)
+
 How do you create it on Github?  click on the new repository button and name the repo.
-How do you commit changes?  git commit -m "commit message here "
-What is the difference between staging and committing changes? Staging adds all the files to be committed to git, while actually committing sends them to the centralized git repo.  
-What is the difference between committing your changes and pushing them to Github?  
+
+How do you commit changes?  git commit -m "commit message here"
+
+What is the difference between staging and committing changes? Staging indexes all the files to be committed to git, while actually committing sends them to the local repo.  
+
+What is the difference between committing your changes and pushing them to Github? Committing changes adds the to your local repository while pushing them adds them to the remote respository.
+
 What is the command to check the status of your current repo in git? git status 
-What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
-How can you look through your historical commits on the Github website?  
+
+What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  git log. You can add a -p flag to view the differences between changes and you can use a -(int) flag to only allow int number of the last entries. --pretty makes the output more readable.
+
+How can you look through your historical commits on the Github website?  On the repo page, click the commit tab at the top. This shows all previous commits and their unique identifier.
+
 What is a "Merge"? Merges a branch of code changes to the main github repo. 
+
 What is a "Pull Request"? Notifies the user in charge of the repo that you've made changes to his/her code, shows these changes, and allows the person in charge to accept or reject these changes.
+
 What is "Forking" a repo?  "forking" a repo on the server side. This means that you can easily contribute to the upstream (main) part of the repo by merging. The remote is saved for you.
 What is "Cloning" a repo?  Cloning copies a repo's files to your local machine, but doesn't allow you to push changes to the code unless you are marked as a contributor on a repo.
