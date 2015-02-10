@@ -79,6 +79,7 @@ What are the three different ways to include CSS in your project or use CSS to s
 
 #### Android
 Put your html code in the `android.html` file in this folder. 
+http://htmlpreview.github.io/?https://github.com/nicholaswhite656/2015week1/blob/master/deliverables/README.md
 
 ---
 ### Section 3: Git and Github  
