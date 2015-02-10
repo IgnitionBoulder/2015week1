@@ -105,7 +105,7 @@ Click 'Commit Change' at the bottom of the page after you have made all of your 
 What is the difference between staging and committing changes? 
 When changes have been staged, that means that git knows about the change, but it is not permanent in the repository. The next commit will include the changes that were staged.
 
-What is the difference between committing your changes and pushing them to Github?  
+What is the difference between committing your changes and pushing them to Github?  When you commit a change you save the changes locally, and then pushing it to github saves the changes to the repository in github.
 
 What is the command to check the status of your current repo in git?  
 git status  
