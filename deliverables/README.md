@@ -1,5 +1,9 @@
 # Week 1 Deliverable  
 
+#Link to Android logo#  
+http://htmlpreview.github.io/?
+https://github.com/bpatience/2015week1/blob/master/deliverables/android.html
+
 ### Instructions  
 
 In order to deliver homework consisting of questions and answers, just edit this file and commit the changes.  Once your answers are on Github, specifically in this file, you have delivered your homework.  
