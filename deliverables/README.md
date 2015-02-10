@@ -133,3 +133,10 @@ A fork is a copy of a repository, forking a repository allows you to freely expe
 
 What is "Cloning" a repo?  
 Cloning is creating a copy of a fork locally on your computer.  
+
+Link to Code Academy  
+http://www.codecademy.com/gigaJumper85615  
+
+Link to Android  
+http://htmlpreview.github.io/?https://github.com/brookhernandez/2015week1/blob/master/deliverables/android.html  
+
