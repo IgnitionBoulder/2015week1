@@ -103,17 +103,38 @@ How do you commit changes?
 At the bottom of the code page as long as you are owner of the code you can commit changes or suggest them.
 
 What is the difference between staging and committing changes?
+
+
 Stage to Commit would be for a file that already has changes being tracked which you've since altered. You would generally only "add" a file once to begin tracking changes, and thereafter you would simply stage the file for commit that you've changed.
 
 What is the difference between committing your changes and pushing them to Github?
+
 Creating a commit is like saving a file—you are telling Git that you’d like to remember this point in history.Click the “Publish” button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
 
 What is the command to check the status of your current repo in git?
+
+Git Status
+
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?
+
+Git Log
+
 How can you look through your historical commits on the Github website?
+
+Git Log
+
 What is a "Merge"?
+
+Merge a Branch or two different repos
+
 What is a "Pull Request"?
+
+Pull requests let you tell others about changes you've pushed to a GitHub repository.
 
 What is "Forking" a repo?
 
+Forking a repository allows you to freely experiment with changes without affecting the original project.
+
 What is "Cloning" a repo?
+
+Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository
