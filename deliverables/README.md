@@ -1,4 +1,6 @@
-# Week 1 Deliverable  
+
+http://htmlpreview.github.io/?https://github.com/SenorJpolicar/2015week1/blob/master/deliverables/android.html  
+
 
 ### Instructions  
 
