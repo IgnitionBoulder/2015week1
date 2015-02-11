@@ -115,8 +115,8 @@ Committing changes adds the to your local repository while pushing them adds the
 What is the command to check the status of your current repo in git? 
 git status 
 
-What is the command to see the history of your previous commits (from the command line)?  
-What are a few interesting variations (sets of options)?  git log. You can add a -p flag to view the differences between changes and you can use a -(int) flag to only allow int number of the last entries. --pretty makes the output more readable.
+What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
+git log. You can add a -p flag to view the differences between changes and you can use a -(int) flag to only allow int number of the last entries. --pretty makes the output more readable.
 
 How can you look through your historical commits on the Github website?  
 On the repo page, click the commit tab at the top. This shows all previous commits and their unique identifier.
