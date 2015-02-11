@@ -75,7 +75,7 @@ What are two CSS attributes you can change to push an element around on the page
 Position could be static, fixed, relative, absolute, floating.
 
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
-First, in my HTML file I could link to a .css file which contains all my styling. Second, I could put my CSS changes in the <style> tags under the <head> of my HTML file. For minor and specific changes, I could add changes within an HTML tag using the style keyword.
+First, in my HTML file I could link to a .css file which contains all my styling. Second, I could put my CSS changes in the style tags under the head of my HTML file. For minor and specific changes, I could add changes within an HTML tag using the style keyword.
 
 #### Android
 Put your html code in the `android.html` file in this folder.
