@@ -123,6 +123,8 @@ tags. And the third method is insertion of the CSS code right in the html tag it
 
 #### Android
 Put your html code in the `android.html` file in this folder.
+Here is the link to my android preview:
+**http://htmlpreview.github.io/?https://github.com/marua7665/2015week1/blob/master/deliverables/android.html**
 
 ---
 ### Section 3: Git and Github  
