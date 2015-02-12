@@ -19,7 +19,7 @@ JavaScript etc. work together to create dynamic web pages and applications.
 I never have a good answer to this question, but if I were to pick one, I would say red. 
 (It helps knowing that red is the very embodiment of strength and power!)
 
-For projects on Code Academy, or other external exercises, please just paste a link into your deliverables file where we can see the result.  
+**My Codecademy link for Html/CSS track completion is: http://www.codecademy.com/marua7665**
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
