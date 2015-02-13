@@ -1,4 +1,6 @@
 # Week 1 Deliverable  
+Codecademy profile:
+http://www.codecademy.com/nome9478
 
 ### Instructions  
 
